@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Article;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -7,7 +8,11 @@ Route::get('/', function () {
 });
 
 Route::get('/article', function () {
-    return inertia('Article');
+    return inertia('Article/Article');
+});
+
+Route::get('/article/{article:slug}', function (Article $article) {
+    return inertia('Article/[slug]', ['article' => $article]);
 });
 
 Route::redirect('/order', '/order/voucher');
