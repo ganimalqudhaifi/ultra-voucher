@@ -2,10 +2,11 @@
 
 namespace Database\Seeders;
 
-use App\Models\Article;
 use App\Models\User;
+use App\Models\Article;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Database\Seeders\PromoDetailSeeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -15,7 +16,9 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $this -> call([
-            CategorySeeder::class
+            CategorySeeder::class,
+            PromoDetailSeeder::class,
+            HighlightDetailSeeder::class
         ]);
         
         // User::factory(10)->create();
