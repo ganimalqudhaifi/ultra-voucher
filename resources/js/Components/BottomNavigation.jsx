@@ -1,10 +1,13 @@
 import { Link } from "@inertiajs/react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHouse } from "@fortawesome/free-solid-svg-icons";
+
 
 export default function BottomNavigation() {
     return (
         <div className="bottom-navigation">
             <div>
-                <i className="fas fa-home"></i>
+                <FontAwesomeIcon icon={faHouse} />
                 <Link href="/" className="text-xs">Home</Link>
             </div>
             <div>

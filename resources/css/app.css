@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .bottom-navigation {
     display: flex;
     justify-content: space-around;
@@ -15,6 +21,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: #4b5563;
 }
 
 .bottom-navigation i {
@@ -28,5 +35,5 @@
 }
 
 .bottom-navigation Link.active {
-    color: #d10e0e;
+    color: #489b46;
 }
