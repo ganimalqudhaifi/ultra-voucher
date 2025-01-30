@@ -19,8 +19,8 @@ A brief description of your project. Explain what it does and its main features.
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/ganimalqudhaifi/ultra-voucher.git
+   cd ultra-voucher
    ```
 
 2. **Install Laravel Dependencies**

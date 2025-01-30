@@ -8,15 +8,15 @@ Terima kasih telah bergabung sebagai kolaborator dalam proyek ini! Untuk memasti
 1. **Fork** repository utama ke akun GitHub Anda.
 2. Clone repository ke lokal Anda:
    ```sh
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/ganimalqudhaifi/ultra-voucher.git
    ```
 3. Pindah ke direktori proyek:
    ```sh
-   cd REPO_NAME
+   cd ultra-voucher
    ```
 4. Tambahkan remote upstream (repository utama):
    ```sh
-   git remote add upstream https://github.com/ORIGINAL_OWNER/REPO_NAME.git
+   git remote add upstream https://github.com/ganimalqudhaifi/ultra-voucher.git
    ```
 5. Pastikan konfigurasi remote:
    ```sh
