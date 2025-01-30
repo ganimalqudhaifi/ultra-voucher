@@ -7,3 +7,12 @@
 body {
     @apply font-poppins;
 }
+
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Webkit browsers */
+}
+
+.scrollbar-hidden {
+    -ms-overflow-style: none; /* Hide scrollbar for IE and Edge */
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
