@@ -4,6 +4,8 @@ namespace Database\Seeders;
 
 use App\Models\User;
 use App\Models\Article;
+use App\Models\Brands;
+use App\Models\Vouchers;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Database\Seeders\PromoDetailSeeder;
@@ -42,5 +44,140 @@ class DatabaseSeeder extends Seeder
         }
 
         Article::factory(10)->create();
+        
+        $dataBrands = [
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-12-13T07%3A51%3A43.249Zgroup.jpeg',
+                'title' => 'Ultra Voucher',
+                'slug' => Str::slug('Merchant Ultra Voucher'),
+                'logo' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-11T08%3A03%3A17.156Z1694419397-group.png',
+                'discount' => 0,
+                'description' => 'deskripsi',
+                'snk' => 'snk'
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-05-03T05%3A31%3A59.794Zgroup.jpeg',
+                'title' => 'MAP GIFT Voucher',
+                'slug' => Str::slug('Merchant MAP GIFT Voucher'),
+                'logo' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-11T05%3A30%3A08.080Z1691731808-group.png',
+                'discount' => 3,
+                'description' => 'deskripsi',
+                'snk' => 'snk'
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-01-05T09%3A07%3A30.283Zgroup.png',
+                'title' => 'DIGIMAP',
+                'slug' => Str::slug('Merchant DIGIMAP'),
+                'logo' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-30T08%3A07%3A39.202Z1698653259-group.png',
+                'discount' => 3,
+                'description' => 'deskripsi',
+                'snk' => 'snk'
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Casio.jpg',
+                'title' => 'Casio',
+                'slug' => Str::slug('Merchant Casio'),
+                'logo' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-11T05%3A16%3A50.895Z1691731010-group.png',
+                'discount' => 8,
+                'description' => 'deskripsi',
+                'snk' => 'snk'
+            ]
+        ];
+
+        $dataVouchers = [
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-11T11%3A05%3A34.309Z1694430333-product.png',
+                'slug' => Str::slug('uv1'),
+                'price' => 5000000,
+                'category' => 'Digital',
+                'brand_id' => 1
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-11T11%3A05%3A34.309Z1694430333-product.png',
+                'slug' => Str::slug('uv2'),
+                'price' => 5100000,
+                'category' => 'Digital',
+                'brand_id' => 1
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-11T11%3A05%3A34.309Z1694430333-product.png',
+                'slug' => Str::slug('uv3'),
+                'price' => 5200000,
+                'category' => 'Fisik',
+                'category' => 'Digital',
+                'brand_id' => 1
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-06T04%3A25%3A07.094Z1696566307-product.png',
+                'slug' => Str::slug('mgv4'),
+                'price' => 4000000,
+                'category' => 'Digital',
+                'brand_id' => 2
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-06T04%3A25%3A07.094Z1696566307-product.png',
+                'slug' => Str::slug('mgv5'),
+                'price' => 4100000,
+                'category' => 'Digital',
+                'brand_id' => 2
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-06T04%3A25%3A07.094Z1696566307-product.png',
+                'slug' => Str::slug('mgv6'),
+                'price' => 4200000,
+                'category' => 'Fisik',
+                'brand_id' => 2
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-30T08%3A07%3A18.478Z1698653238-product.png',
+                'slug' => Str::slug('digi7'),
+                'price' => 1000000,
+                'category' => 'Digital',
+                'brand_id' => 3
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-30T08%3A07%3A18.478Z1698653238-product.png',
+                'slug' => Str::slug('digi8'),
+                'price' => 1100000,
+                'category' => 'Digital',
+                'brand_id' => 3
+            ],
+            [
+                'image' => 'https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-10-30T08%3A07%3A18.478Z1698653238-product.png',
+                'slug' => Str::slug('digi9'),
+                'price' => 1200000,
+                'category' => 'Fisik',
+                'brand_id' => 3
+            ],
+            [
+                'image' => 'http://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/product-vouchers/CSO01000_1000000.png',
+                'slug' => Str::slug('cas10'),
+                'price' => 2000000,
+                'category' => 'Digital',
+                'brand_id' => 4
+            ],
+            [
+                'image' => 'http://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/product-vouchers/CSO01000_1000000.png',
+                'slug' => Str::slug('cas11'),
+                'price' => 2100000,
+                'category' => 'Digital',
+                'brand_id' => 4
+            ],
+            [
+                'image' => 'http://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/product-vouchers/CSO01000_1000000.png',
+                'slug' => Str::slug('cas12'),
+                'price' => 2200000,
+                'category' => 'Fisik',
+                'brand_id' => 4
+            ]
+        ];
+
+        foreach ($dataBrands as $item) {
+            Brands::create($item);    
+        }
+
+        foreach ($dataVouchers as $item) {
+            Vouchers::create($item);    
+        }
     }
 }
