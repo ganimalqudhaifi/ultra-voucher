@@ -8,31 +8,11 @@ body {
     @apply font-poppins;
 }
 
-.bottom-navigation {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: white;
-    padding: 0.5rem 0;
-    border-top: 1px solid #e5e7eb;
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Webkit browsers */
 }
 
-.bottom-navigation div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.bottom-navigation i {
-    font-size: 1.25rem;
-    color: #4b5563;
-}
-
-.bottom-navigation Link {
-    font-size: 0.75rem;
-    color: #4b5563;
-}
-
-.bottom-navigation Link.active {
-    color: #d10e0e;
+.scrollbar-hidden {
+    -ms-overflow-style: none; /* Hide scrollbar for IE and Edge */
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
 }
