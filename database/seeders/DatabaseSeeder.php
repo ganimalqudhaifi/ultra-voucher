@@ -3,10 +3,11 @@
 namespace Database\Seeders;
 
 use App\Models\User;
-use App\Models\Article;
 use App\Models\Brands;
+use App\Models\Article;
 use App\Models\Vouchers;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Support\Str;
 use Illuminate\Database\Seeder;
 use Database\Seeders\PromoDetailSeeder;
 
