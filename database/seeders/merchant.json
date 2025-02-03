@@ -1,0 +1,1442 @@
+[
+    {
+      "id": 93,
+      "parent_account": {
+        "id": 8291,
+        "name": "Altima Group"
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "NNYS",
+      "name": "Nanny's Pavillon By Altima Group",
+      "count_transaction": 3737,
+      "created_at": "2018-11-16 10:59:32",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 47734,
+        "id_master_imageable": 104950,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-11T05%3A09%3A40.703Z1691730580-group.png",
+        "ordered": null,
+        "alt_image": "merchant-nanny's-pavillon-by-altima-group-logo"
+      },
+      "background_image": {
+        "id_master_image": 57143,
+        "id_master_imageable": 104951,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-09-05T07%3A10%3A45.751Zgroup.png",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 104952,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 24,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 93,
+        "name": "Nanny's Pavillon By Altima Group",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-11T05%3A09%3A40.703Z1691730580-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-nanny's-pavillon-by-altima-group",
+      "meta_title": "Nanny's Pavillon By Altima Group",
+      "meta_description": "Didirikan sejak 23 Maret 2009, Nanny’s Pavillon pertama kali membuka outletnya di Bandung, Indonesia. Nanny’s Pavillon merupakan restoran panekuk berkonsep French American. Tradisi dari French American family sangat diikuti oleh Nanny’s Pavillon, oleh karena itu rutinitasnya mencerminkan kehangatan, nyaman, dan suasana akrab.\n\n**Outlet Berlaku:**\n1. Kota Kasablanka \n2. Central Park \n3. Pondok Indah Mall \n4. Lippo Mall Puri \n5. Cilandak Town Square \n6. Summarecon Mal Bekasi \n7. AEON BSD \n8. AEON Mall Tanjung Barat \n9. AEON Mall Sentul City \n10. Nanny's Pavillon, La Riviera - PIK 2\n11. Nanny's Pavillon, Agora\n12. Nanny's Pavillon, Lotte Shopping Avenue\n13. Nanny's Pavillon, AEON Mall Deltamas",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 101,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "GROUP",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "HGDZ",
+      "name": "Haagen Dazs",
+      "count_transaction": 2437,
+      "created_at": "2018-12-07 12:03:00",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 47730,
+        "id_master_imageable": 108268,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-11T05%3A00%3A24.460Z1691730024-group.png",
+        "ordered": null,
+        "alt_image": "group-haagen-dazs-logo"
+      },
+      "background_image": {
+        "id_master_image": 57157,
+        "id_master_imageable": 108269,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-09-05T07%3A39%3A16.555Zgroup.png",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 108270,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "NO",
+      "discount": 40,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 101,
+        "name": "Haagen Dazs",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-11T05%3A00%3A24.460Z1691730024-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "group-haagen-dazs",
+      "meta_title": "Haagen Dazs",
+      "meta_description": "Haagen-Dazs yang merupakan super premium ice cream dan brand yang populer di Indonesia. Haagen-Dazs menyediakan sekitar 16 varian menu ice cream yang langsung diimpor dari Perancis. Gerai dengan konsep cafe ini bisa dijadikan sebagai pilihan tempat hangout setelah seharian beraktivitas. Haagen-Dazs juga menyediakan fasilitas dine-in atau take away bagi Anda yang ingin menikmati ice cream di sini.\n\n**Outlet Berlaku :**\n\n* Haagendazs Cafe Mall Plaza Senayan\n* Haagendazs Cafe Grand Indonesia Shopping Town\n* Haagendazs Cafe Summarecon Mall Serpong\n* Haagendazs Kiosk Summarecon Mall Serpong\n* Haagendazs Cafe Cilandak Town Square\n* Haagendazs Kiosk Mall Artha Gading\n* Haagendazs Kiosk Mall Alam Sutera\n* Haagendazs Cafe Centre Point Medan\n* Haagendazs Cafe Mall Puri Indah\n* Haagendazs Kiosk Mall Puri Indah\n* Haagendazs Cafe Mall Kota Kasablanka\n* Haagendazs Cafe Gandaria City Mall\n* Haagendazs Kiosk AEON BSD\n* Haagendazs Kiosk QBIG BSD\n* Haagendazs Kiosk Summarecon Mall Bekasi\n* Haagendazs Cafe AEON Sentul\n* Haagendazs Cafe PIM 2\n* Haagendazs Cafe Mall Pluit Village\n* Haagendazs Cafe Mall Kelapa Gading 1\n* Haagendazs Cafe Mall Karawaci Tangerang\n* Haagendazs Kiosk Mall Kelapa Gading 3\n* Haagendazs Kiosk Bintaro Exchange Mall\n* Haagendazs Kiosk Villagio Karawang\n* Haagendazs Cafe Setiabudhi Bandung\n* Haagendazs Kiosk Central Park\n* Haagendazs Cafe Mall Central Park\n* Haagendazs Cafe Emporium\n* Haagendazs Cafe Senayan City Mall\n* Haagendazs Cafe Plaza Indonesia\n* Haagendazs Kiosk Summarecon Digital Center\n* Haagendazs Kiosk Menteng Central\n* Haagendazs Kiosk Mall Living World\n* Haagendazs Cafe Ratu Indah Makasar\n* Haagendazs Cafe Mall Galaxy Surabaya\n* Haagendazs Kiosk Pakuwon Mall Surabaya\n* Haagendazs Cafe Pakuwon Mall Surabaya\n* Haagendazs Cafe Mall Tunjungan Plaza 3\n* Haagendazs Cafe Ciputra World Surabaya\n* Haagendazs Cafe Beach Walk Kuta Bali\n* Haagendazs Cafe Pakuwon City Mall 2 Surabaya\n* Haagendazs Cafe Paragon Mall Semaran\n* Haagen Dazs Icon Mall Bali\n* Haagen Dazs kiosk Sunter\n\n**Tidak berlaku di Outlet :**\n\n* TDC Food Centrum Sunter\n* Haagen Dazs Dip Shop Bandara International Ngurah Rai   ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 169,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "WTK",
+      "name": "Warung Tekko",
+      "count_transaction": 480,
+      "created_at": "2019-06-14 05:00:53",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48811,
+        "id_master_imageable": 108698,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A28%3A22.139Z1693898902-group.png",
+        "ordered": null,
+        "alt_image": "merchant-warung-tekko-logo"
+      },
+      "background_image": {
+        "id_master_image": 43080,
+        "id_master_imageable": 108699,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Warung_Tekko.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 108700,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 12,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 169,
+        "name": "Warung Tekko",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A28%3A22.139Z1693898902-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-warung-tekko",
+      "meta_title": "Warung Tekko",
+      "meta_description": "Warung Tekko adalah restoran keluarga yang menawarkan masakan Indonesia bergaya rumah tradisional dengan rasa otentik setiap hari. Gunakan voucher Ultra untuk harga yang lebih terjangkau.\n\n**Outlet Berlaku :**\n\n*  Warung Tekko Cikupa \n*  Warung Tekko Supermal Karawaci \n*  Warung Tekko Bintaro \n*  Warung Tekko Daan Mogot \n*  Warung Tekko Pluit Village \n*  Warung Tekko Artha Gading \n*  Warung Tekko Batu Tulis \n*  Warung Tekko Plaza Festival \n*  Warung Tekko Kalibata \n*  Warung Tekko Revo Town \n*  Warung Tekko Bekasi Kalimalang \n*  Warung Tekko Cikarang \n*  Warung Tekko Cibubur \n*  Warung Tekko Ciputra Mall Tangerang \n*  Warung Tekko Lippo Plaza Kramat Jati \n*  Warung Tekko Gaia Pontianak \n*  Warung Tekko Plaza Semanggi \n*  Warung Tekko Senayan Park \n*  Warung Tekko Sunter Agung \n*  Warung Tekko Asthana Kemang \n*  Warung Tekko Transmart Cibubur \n*  Warung Tekko transpark Juanda \n*  Warung Tekko Lokasari Square \n*  Warung Tekko Gajah Mada Plaza\n* Tekko TIS Square Tebet\n* Tekko Panglima Polim\n* Tekko Bandara Soekarno Hatta terminal 3 Indoor\n* Tekko Bandara Soekarno Hatta Terminal 3 Outdoor \n\n**Tidak berlaku pada outlet:**\n\n- Tekko Green Terace\n- Tekko Mampang Business Park \n- Tekko Green Lake City\n- Tekko Pesangrahan\n- Tekko Tamini Square\n- Tekko Ceger\n- Tekko Kelapa Gading \n- Tekko Grand Kota Bintang\n- Tekko QBig Mall \n- Tekko Bandara City Mall\n- Tekko Hypermall Bekasi\n- Tekko Summarecon Mall Bekasi\n- Tekko Kotawisata\n- Tekko Sukaresmi\n- Tekko Kemeruyuk\n- Tekko Pemuda Rawamangun\n",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 6366,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "GROUP",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "FFI",
+      "name": "KFC",
+      "count_transaction": 432,
+      "created_at": "2022-04-13 10:10:04",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 47805,
+        "id_master_imageable": 84872,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-08-15T02%3A26%3A45.718Zgroup.png",
+        "ordered": null,
+        "alt_image": "group-kfc-logo"
+      },
+      "background_image": {
+        "id_master_image": 54816,
+        "id_master_imageable": 84873,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-05-03T05%3A25%3A41.684Zgroup.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 84874,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "NO",
+      "discount": 10,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 6366,
+        "name": "KFC",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-08-15T02%3A26%3A45.718Zgroup.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "group-kfc",
+      "meta_title": "KFC",
+      "meta_description": "PT Fast Food Indonesia TBK adalah sebuah perseroan yang didirikan pada tahun 1978 dan pemegang hak eksklusif hak waralaba restoran KFC di Indonesia. restoran pertama KFC berdiri pada tahun 1979 berlokasi di Jakarta. Produk unggulan perseroan adalah Original Recipe (kini disempurnakan menjadi new Improved Original Recipe) dan Hot Crispy Chicken yang tetap merupakan ayam goreng paling digemari dalam berbagai survei konsumen di Indonesia.Dalam perjalannya, KFC terus menambah koleksi andalannya.\n\nSebagai restoran berslogan ‘Jagonya Ayam’ KFC selalu menggunakan daging ayam dengan kualitas unggul yang diambil dari tempat pemotongan ayam yang selalu dijaga dan diawasi prosesnya, sehingga ayam yang dihasilkan pun lebih terjamin,higienis dan sehat. semua bahan baku dan produk yang disajikan KFC, tidak hanya produk ayam, sudah mendapat sertifikat Halal dari Majelis Ulama Indonesia (MUI) dan proses produksi para pemasok bahan KFC terus diawasi oleh pihak Quality Assurance KFC\n\n\nOutlet berlaku :\nSeluruh gerai KFC di bawah PT Fast Food Indonesia Kecuali:\n- KFC Kemayoran Jakarta\n- KFC Jl.Proklamator Bandar Jaya Lampung\n- KFC Jl.Jend Sudirman Bandar Lampung\n- KFC CIK DITIRO Lampung\n- KFC Coco Sarapung Manado\n- KFC Hassanudin Ujung Pandang\n- KFC Jl.Jendral Sudirman Manado\n- KFC Jl.Yos Sudarso Hadi Mall Manokwari\n- KFC Mega Mall Manado\n- KFC Manado Trade Center\n- KFC Pringsewu Lampung\n- KFC Jl.Cendrawasih Komplek Timika\n- KFC Way Halim Lampung\"",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 30,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "Food & Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "BGM00100",
+      "name": "Bakmi GM",
+      "count_transaction": 327,
+      "created_at": "2018-04-17 07:30:53",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48794,
+        "id_master_imageable": 89595,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T04%3A18%3A44.747Z1693887524-group.png",
+        "ordered": null,
+        "alt_image": "merchant-bakmi-gm-logo"
+      },
+      "background_image": {
+        "id_master_image": 42869,
+        "id_master_imageable": 89596,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Bakmi_GM.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 89597,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 8,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 30,
+        "name": "Bakmi GM",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T04%3A18%3A44.747Z1693887524-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-bakmi-gm",
+      "meta_title": "Bakmi GM",
+      "meta_description": "Pelanggan BAKMI GM berasal dari berbagai kalangan usia (muda dan tua) dan profesi (mahasiswa, eksekutif muda) setiap harinya. Ada lebih dari 50 menu. Restoran BAKMI GM dapat ditemukan di berbagai lokasi, mulai dari pemukiman penduduk dan perkantoran hingga pusat perbelanjaan. Setiap restoran BAKMI GM dirancang untuk memberikan suasana hangat dan menyenangkan.\n\n\n**Outlet Berlaku:**\n\nBerlaku pada semua cabang/outlet Nasional Bakmi GM kecuali outlet yang berbentuk Food Truck, Bazaar, Stasiun dan MRT\n\n\n**Outlet tidak berlaku:**\n- Soekarno Hatta Terminal 3 - Food Food Truck dan Bazar",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 43,
+      "parent_account": {
+        "id": 26,
+        "name": "Boga Group"
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "KUMIKATSU0",
+      "name": "Kimukatsu",
+      "count_transaction": 306,
+      "created_at": "2018-07-20 04:22:53",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48859,
+        "id_master_imageable": 108022,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-06T02%3A55%3A15.598Z1693968915-group.png",
+        "ordered": null,
+        "alt_image": "merchant-kimukatsu-logo"
+      },
+      "background_image": {
+        "id_master_image": 42964,
+        "id_master_imageable": 108023,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Kimukatsu.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 108024,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 8,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 43,
+        "name": "Kimukatsu",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-06T02%3A55%3A15.598Z1693968915-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-kimukatsu",
+      "meta_title": "Kimukatsu",
+      "meta_description": "Sebagai satu -satunya restoran di dunia yang menawarkan Katsu Millefeuille dalam berbagai rasa, Kimukatsu berspesialisasi dalam lapisan ayam/daging sapi yang lezat dan berair yang membungkus pengisi yang lezat. Rasa yang paling populer adalah asli, negi, bawang putih, lada hitam, dan keju leleh, yang menambah rasa umami yang gurih. Kimukatsu telah ditampilkan di majalah dan acara TV Jepang populer, menjadikannya restoran terpanas, dan sekarang kami membawa restoran populer ini ke Indonesia. Makan di Kimukatsu adalah pengalaman bersantap yang berbeda; Dari aroma wijen panggang yang dicampur dengan saus khusus hingga lapisan roti putih segar di sekitar Katsu berlapis khas, Kimukatsu menawarkan sesuatu yang baru dan unik dengan harga yang wajar.\n\n\n**Outlet Berlaku:**\n\n*  Kimukatsu Kota Kasablanka\t\t\n*  Kimukatsu Lippo Puri St\t Moritz\t\n*  Kimukatsu Sumarecon Mall Serpong\t\t\n*  Kimukatsu Grand Indonesia\t\t\n*  Kimukatsu Lippo Kemang\t\t\n*  Kimukatsu Pasific Place (Temporaryy Closed)\t\t\n*  Kimukatsu Emporium Pluit\t\t\n*  Kimukatsu Bintaro Exchange\t\t\n*  Kimukatsu Trans Studio Cibubur\t\t\n*  Kimukatsu Express MOI\t\t\n*  Kimukatsu Gadaria City\t\t\n*  Kimukatsu Tunjungan Plaza\t\t\n*  Kimukatsu Galaxy Mall\t\t\n*  Kimukatsu Grand Batam Mall, L3-03&04 GRAND BATAM MALL\t\t\nJl. Pembangunan Kelurahan Batu Selicin, Kecamatan Lubuk Baja, Batam 29432\t\t\n*  Kimukatsu Delipark Medan\t\t\nJalan Guru Patimpus Blok OPQ No 1, Kesawan, Kec \t Medan Bar\t, Kota Medan, Sumatera Utara 20111\n*  Kimukatsu Mall Kelapa Gading\t\t\n*  Kimukatsu Pik Avenue\t\t\n*  Kimukatsu Pakuwon City Mall\t\t\n*  Kimukatsu Sun Plaza Medan\t\t\n*  Kimukatsu Ayani Megamall Pontianak\t\t\n*  Kimukatsu Palembang Indah Mall\t\t\n*  Kimukatsu Pondok Indah Mall 3\t\t\n*  Kimukatsu Trans Studio Bandung\t\t\n*  Kimukatsu Summarecon Bekasi\t\t\n*  Kimukatsu Manado Town Square\t\t\n*  Kimukatsu Cinere\t\t\n*  Kimukatsu Mal SKA Pekanbaru\t\t\n*  Kimukatsu Hartono Mall Yogyakarta\t\t\n*  Kimukatsu Senayan Park\t\t\n*  Kimukatsu Ciputra World\t\t\n*  Kimukatsu Cibinong City Mall\t\t\n*  Kimukatsu Supermall Karawaci\t\t\n*  Kimukatsu 23 Paskal Bandung\t\t\n*  Kimukatsu Jambi Town Square\t\t\n*  Kimukatsu Ratu Indah Makasar\t\t\n*  Kimukatsu Resinda Park Mall Karawang\t\t\n*  Kimukatsu City Centrum Samarinda\t\t\n*  Kimukatsu Lippo Plaza Jember\t\t\n*  Kimukatsu Trans Icon Mall Surabaya\t\t\n*  Kimukatsu Mall Olympic Garden Malang\t\t\n*  Kimukatsu Central Park Jakarta\t\t\n*  Kimukatsu The Park Mall Semarang\t\t\n*  Kimukatsu Pakuwon Mall Solo Baru\t\t\n*  Kimukatsu Living World Bali\t\t\n*  Kimukatsu Duta Mall Banjarmasin\t\t\n*  Kimukatsu Trans Studio Makasar\t\t\n*  Kimukatsu AEON Tanjung Barat\t\t\n*  Kimukatsu Lippo Plaza Ekalokasari Bogor\t\t\n*  Kimukatsu Ambarukmo Plaza Yogyakarta\t\t\n*  Kimukatsu One Distric Puri\t\t\n*  Kimukatsu Grand East Karawang\t\t\n*  Kimukatsu Lampung City Mall\t\t\n*  Kimukatsu Bandung Indah Plaza\t\t\n*  Kimukatsu Mal Lippo Cikarang\t\t\n*  Kimukatsu Summarecon Mall Bandung (Opening 18 Jan 2024)\t\n*  Kimukatsu AEON Mall Sentul City (Opening 26 Jan 2024)\t\t\n*  Kimukatsu Grand Kota Bintang (Opening 16 Feb 2024)\t\t\n*  Kimukatsu Agora Thamrin (Opening 20 Feb 2024)\t\t\n*  Kimukatsu Summarecon Villaggio Karawang (Opening 23 Feb 2024)\t\t\n*  KImukatsu Lombok Epicentrum (Opening 27 Feb 2024)\n*  Kimukatsu Beachwalk Bali \n*  Kimukatsu Trans Studio Bali \n*  Kimukatsu Queen City Mall Semarang \n*  Kimukatsu AEON Delta Mas\n*  Kimukatsu Living World Kota Wisata Cibubur\n*  Kimukatsu Icon Bali Mall\n*  Kimukatsu Living World Alam Sutera\n*  Kimukatsu Margocity\n*  Kimukatsu The Pejaten Park\n* Kimukatsu CSB Mall\n* Kimukatsu Pakuwon Mall Bekasi\n* Kimukatsu The Park Kendari \n* Kimukatsu Cilegon Center Mall\n* Kimukatsu The Park Sawangan\n ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 16026,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "KKN",
+      "name": "Kopi Kenangan",
+      "count_transaction": 305,
+      "created_at": "2023-09-10 13:08:43",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 49292,
+        "id_master_imageable": 91867,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-10T13%3A08%3A35.378Z1694351315-group.png",
+        "ordered": null,
+        "alt_image": "merchant-kopi-kenangan-logo"
+      },
+      "background_image": {
+        "id_master_image": 49923,
+        "id_master_imageable": 91868,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-10-04T08%3A54%3A53.038Zgroup.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 91869,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 11,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 16026,
+        "name": "Kopi Kenangan",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-10T13%3A08%3A35.378Z1694351315-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-kopi-kenangan",
+      "meta_title": "Kopi Kenangan",
+      "meta_description": "Kopi Kenangan adalah gerai minuman non-franchise berkonsep grab-and-go dengan pertumbuhan tercepat di Indonesia, didirikan dengan satu tujuan : Kami ingin meningkatkan kesadaran dan konsumsi kopi lokal masyarakat Indonesia. Dimulai dengan produk unggulan, kopi susu gula aren sebagai minuman kopi khas Indonesia, Kopi kenangan telah berkembang menjadi food and beverage company yang tetap setia kepada komitmen kami : menggunakan bahan-bahan lokal 100% Indonesia berkualitas tinggi. Mendukung keberlangsungan Petani lokal Indonesia, Kami hanya menggunakan biji kopi berkualitas terbaik, yang dipilih dan diolah secara cermat. semua untuk memberikan kualitas terbaik di setiap gelas yang kami sajikan. Karena di kopi kenangan, Kami ingin memberikan kebahagiaan lewat satu gelas kopi, pada setiap pelanggan, setiap waktu\n\n\n**Outlet berlaku :**\n\nOnline Store : \nAplikasi Kopi Kenangan\n\nOffline Store :\nBerlaku di seluruh gerai Kopi Kenangan, kecuali Cloud kitchen dan Booth. \n\n**Outlet tidak berlaku:**\n\n- Outlet dalam bentuk Booth \n- Cloud kitchen",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 2298,
+      "parent_account": {
+        "id": 26,
+        "name": "Boga Group"
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "YKL",
+      "name": "Yakiniku Like",
+      "count_transaction": 291,
+      "created_at": "2019-12-23 19:54:42",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 49084,
+        "id_master_imageable": 105629,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T06%3A17%3A46.555Z1694153866-group.png",
+        "ordered": null,
+        "alt_image": "merchant-yakiniku-like-logo"
+      },
+      "background_image": {
+        "id_master_image": 43085,
+        "id_master_imageable": 105630,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Yakiniku_Like.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 105631,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 8,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 2298,
+        "name": "Yakiniku Like",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T06%3A17%3A46.555Z1694153866-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-yakiniku-like",
+      "meta_title": "Yakiniku Like",
+      "meta_description": "Yakiniku Like, sebuah restoran BBQ Jepang yang melayani penyajian makanan cepat, dengan berbagai macam daging premium yang ditawarkan dengan harga terjangkau. Dengan set panggangan pribadi yang diinstal di setiap meja dan layanan yang lebih cepat, Anda dapat menikmati pengalaman memasak sendiri dengan santai bersama teman, cocok untuk makan siang, perayaan dan acara lainnya.\n\n\n**Outlet Berlaku:**\n\n*  Lippo Mal Puri, Lt\t LG\t Unit LG-111, Jl\t Puri Indah Raya, Kelurahan   Kembangan Selatan, kecamatan Kembangan, Jakarta Barat, DKI Jakarta\t\t\n* DP Mal Semarang, Lt\t Dasar, unit G\t27, Jl\tPemuda 150, kelurahan sekayu, kec\t Semarang, kota semarang\t\n* Yakiniku Like Grand Indonesia\t\t\t\t\t\n* Yakiniku Like Mall Of Indonesia\t\t\t\t\t\n* Yakiniku Like Kota Kasablanka\t\t\t\t\t\n* Yakiniku Like Pondok Indah Mall 3\t\t\t\t\t\n* Yakiniku Like Trans Studio Mall Bandung\t\t\t\t\t\n* Yakiniku Like Palembang Indah Mall\t\t\t\t\t\n* Yakiniku Like Paragon Mall Solo \t\t\t\t\t\n* Yakiniku Like Senayan Park\t\t\t\t\t\n* Yakiniku Like Hartono Mall \t\t\t\t\t\n* Yakiniku Like Pekanbaru\t\t\t\t\t\n* Yakiniku Like Trans Icon Mall Surabaya\t\t\t\t\t\n* Yakiniku Like Lippo Mall Kemang\n* Yakiniku Like Living World Bali\n* Yakiniku Like , Mall Pacific place\t\t\t\t\t\n* Yakiniku Like Sumarecon Gede Bage (Opening: 18 Jan 2024)\n* Yakiniku Like Summarecon Mall Serpong ( Opening 12 Feb 2024)\n* Yakiniku Like Kelapa Gading\n* Yakiniku Like AEON Delta Mas\n* Yakiniku Like Bali Mall\n* Yakiniku Like Binyaro Exchange\n* Yakiniku Like Living World Kota Wisata Cibubur\n* Yakiniku Like Living World Alam Sutera\n* Yakiniku Like Grand Metropolitan Bekasi\n* Yakiniku Like Grand Batam\n* Yakiniku Like The Park Pejaten \n* YAKINIKU LIKE CIREBON SUPER BLOCK MALL\n* YAKINIKU LIKE TRANS STUDIO CIBUBUR\n* Yakinikulike Pakuwon Mall Bekasi\n     ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 42,
+      "parent_account": {
+        "id": 26,
+        "name": "Boga Group"
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "KINTANBUFF",
+      "name": "Kintan Buffet",
+      "count_transaction": 283,
+      "created_at": "2018-07-20 04:19:43",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48860,
+        "id_master_imageable": 71546,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-06T02%3A55%3A53.972Z1693968953-group.png",
+        "ordered": null,
+        "alt_image": "merchant-kintan-buffet-logo"
+      },
+      "background_image": {
+        "id_master_image": 42965,
+        "id_master_imageable": 68573,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Kintan_Buffet.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "accept_uv_payment": "YES",
+      "discount": 8,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 42,
+        "name": "Kintan Buffet",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-06T02%3A55%3A53.972Z1693968953-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-kintan-buffet",
+      "meta_title": "Kintan Buffet",
+      "meta_description": "Restoran panggangan Jepang favorit ini untuk makan malam telah memasuki Indonesia dengan konsep Yakiniku all-you-can-Eat, menggunakan bahan-bahan premium yang diimpor dari Jepang. 'Kintan' adalah orang Jepang untuk 'Lidah Emas,' menu terlaris restoran. Segar dari Jepang. Melalui hidangan khas seperti ini, Kintan menawarkan standar tinggi rasa, kesehatan, dan kesegaran Jepang dengan harga yang terjangkau.\n\n**Outlet Berlaku:**\n\n1.        Kintan Buffet Gandaria City\n2.        Kintan Buffet Puri Indah Mall\n3.        Kintan MKG\n4.        Kintan Central Park\n5.        Kintan Kota Kasablanka\n6.        Shaburi & Kintan Senayan City \n7.        Shaburi & Kintan Ambarukmo \n8.        Plaza Yogya Shaburi & Kintan \n9.        Bintaro Exchange Shaburi & Kintan \n10.        Lippo Karawaci Shaburi & Kintan \n11.        Lippo Kemang Shaburi & Kintan \n12.        Ciputra World Shaburi & Kintan \n13.        Living World Shaburi & Kintan \n14.        Margo City Shaburi & Kintan \n15.        Medan Shaburi & Kintan \n16.        Metropolitan Bekasi Shaburi & Kintan \n17.        Trans Studio Mall Makasar Shaburi & Kintan \n18.        Summarecon Mall Serpong Shaburi & Kintan \n19.        Trans Studio Cibubur Shaburi & Kintan\n20.        Batam Shaburi & Kintan \n21.        Pakuwon Mall Surabaya Shaburi & Kintan \n22.        PVJ Bandung Shaburi & Kintan Trans Studio Bali\n23.       Tunjungan Plaza 5 Mall, Jalan Basuki Rahmat No. 8-12, Kedungdoro, Kec. Tegalsari, Kota SBY, Jawa Timur 60261\n24.       Kintan Buffet Grand Indonesia\n25.       Shaburi & Kintan Buffet Paragon Mall Semarang\n26.        Shaburi & Kintan Buffet Pondok Indah Mall 3\n27.        Shaburi & Kintan Buffet Pondok Centre Point Medan\n28.        Kintan Buffet Lippo Mall Puri",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 4066,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "MDD",
+      "name": "McDonald's",
+      "count_transaction": 258,
+      "created_at": "2021-01-22 13:44:19",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 47657,
+        "id_master_imageable": 107989,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-10T12%3A01%3A06.676Z1691668866-group.png",
+        "ordered": null,
+        "alt_image": "merchant-mcdonald's-logo"
+      },
+      "background_image": {
+        "id_master_image": 54822,
+        "id_master_imageable": 107990,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-05-03T05%3A32%3A24.749Zgroup.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 107991,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 15,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 4066,
+        "name": "McDonald's",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-08-10T12%3A01%3A06.676Z1691668866-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-mcdonald's",
+      "meta_title": "McDonald's",
+      "meta_description": "McDonald’s merupakan restoran fast food terbesar di dunia yang tersebar di lebih dari 100 negara, salah satunya Indonesia. McDonald’s pertama kali masuk ke Indonesia pada tahun 1991 dan hingga saat ini telah membuka lebih dari 250 gerai McDonald’s di berbagai kota di Indonesia. McDonald’s menyediakan menu favorit dengan kualitas terbaik dimana saja dan kapan saja mulai dari burger, ayam goreng, hingga es krim. Seluruh menu yang tersedia dapat  dinikmati melalui berbagai layanan McDonald’s yaitu melalui makan di tempat, Drive Thru dan juga delivery. Komitmen yang kuat serta kualitas mendunia dengan sentuhan khas Indonesia menjadikan McDonald’s semakin Lovin It di setiap keberadaannya.\n\n\n\n**Outlet berlaku :**\n\nSeluruh outlet McDonald's Indonesia, meliputi:\n- Regular Cashier\n- McCafe\n- Drive Thru\n- Tidak berlaku untuk Gerai Ice Cream\n\nWaktu penggunaan\n- Dapat digunakan sesuai jam oprasional gerai McDonald's \n",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 314559,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "GGFF",
+      "name": "GrabGifts Food",
+      "count_transaction": 251,
+      "created_at": "2024-04-04 07:14:10",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 54170,
+        "id_master_imageable": 89613,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2024-04-05T05%3A31%3A04.899Z1712295064-group.png",
+        "ordered": null,
+        "alt_image": "merchant-grabgifts-food-logo"
+      },
+      "background_image": {
+        "id_master_image": 68605,
+        "id_master_imageable": 89614,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2024-11-27T00%3A32%3A59.927Z1732667579-group.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 89615,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "NO",
+      "discount": 7,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 314559,
+        "name": "GrabGifts Food",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2024-04-05T05%3A31%3A04.899Z1712295064-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-grabgifts-food",
+      "meta_title": "GrabGifts Food",
+      "meta_description": "Grab sangat mengapresiasi kekayaan kuliner di Jakarta. GrabFood hanya menjalin kerjasama dengan restoran terbaik, yang berarti petualangan gastonomi tanpa resiko dan tidak ada lagi kalori yang terbuang sia-sia. Setiap pesanan akan memuaskan selera para pecinta kuliner. Manjakan lidah dan kantongmu dengan lebih hemat lewat Voucher Grabfood di Ultra Voucher!",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 49,
+      "parent_account": {
+        "id": 26,
+        "name": "Boga Group"
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "PEPPERLUNC",
+      "name": "Pepper Lunch",
+      "count_transaction": 247,
+      "created_at": "2018-07-20 06:29:26",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 49083,
+        "id_master_imageable": 103873,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T06%3A14%3A25.057Z1694153665-group.png",
+        "ordered": null,
+        "alt_image": "merchant-pepper-lunch-logo"
+      },
+      "background_image": {
+        "id_master_image": 43007,
+        "id_master_imageable": 103874,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Pepper_Lunch.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 103875,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 8,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 49,
+        "name": "Pepper Lunch",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T06%3A14%3A25.057Z1694153665-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-pepper-lunch",
+      "meta_title": "Pepper Lunch",
+      "meta_description": "Pepper Lunch adalah rumah makan cepat saji (Do-It-Yourself) dengan lebih dari 200 outlet di Jepang dan Asia. Menyajikan konsep baru dari Steak, Pasta, Curry Rice, and note forgetting our signature Pepper Rice. Pepper Lunch menjanjikan pengalaman kuliner yang dinamis dan segar untuk semua orang. Semua dengan harga terjangkau\n\n\n**Outlet Berlaku:**\n \n*  Plaza Senayan, Level 3\n*  Plaza Indonesia, Level LB\n*  Taman Anggrek, Level 4 (Temporaryy Closed)\n*  Gandaria City - Level 2\n*  Central Park - Level LG\n*  Lippo Karawaci - Level UG\n*  Kota Kasablanka - Level LG\n*  Cilandak Town Square - Level 2\n*  Lotte Shopping Avenue - Level 4\n*  Bintaro Xchange - Level GF\n*  Grand Metropolitan Bekasi - Level 3\n*  Mall Baywalk Green Bay Pluit - Level 2 (Temporaryy Closed)\n*  Grand Indonesia\n*  Margocity Depok\n*  Living World Alam Sutera - GF\n*  Mall Kelapa Gading 3 - Foodcourt 3rd Level FCI\n*  Soekarno Hatta (Temporary Closed)\n*  Summarecon Mall Bekasi\n*  Lippo Kemang\n*  Artha Gading\n*  Pepper Lunch Manado Town Square*\n*  Pepper Lunch Pentacity Shopping Venue*\n*  Pepper Lunch Plaza Ambarukmo*\n*  Pepper Lunch Big Mall Samarinda *\n*  Pepper Lunch Palembang Indah Mall*\n*  Pepper Lunch Pakuwon Mall SBY*\n*  Pepper Lunch Tunjungan Plaza SBY*\n*  Pepper Lunch Summarecon Mall Serpong\n*  Pepper Lunch Pasific Place (Temporary Closed)\n*  Pepper Lunch Trans Studio Cibubur\n*  Pepper Lunch Blok M Plaza (Temporaryy Closed)\n*  Pepper Lunch Grand Batam\n*  Pepper Lunch EX Senayan City\n*  Pepper Lunch EX Emporium Pluit\n*  Pepper Lunch EX Puri Indah Mall\n*  Pepper Lunch EX Pondok Indah Mall 1\n*  Pepper Lunch EX Botani Square Bogor\n*  Pepper Lunch EX PIK Avenue\n*  Pepper Lunch EX Aeon Mall BSD\n*  Pepper Lunch EX St Moritz\n*  Pepper Lunch EX Pesona Depok\n*  Pepper Lunch EX MOI\n*  Pepper Lunch PVJ Bandung\n*  Pepper Lunch Istana Plaza\n*  Pepper Lunch Trans Studio Mall Bandung\n*  Pepper Lunch 23 Paskal\n*  Pepper Lunch Manhattan Times Square\n*  Pepper Lunch Sun Plaza\n*  Pepper Lunch Center Point\n*  Pepper Lunch Mall Ratu Indah Makassar\n*  Pepper Lunch Trans Studio Mall\n*  Pepper Lunch Beachwalk Bali\n*  Pepper Lunch EX Galaxy Mall\n*  Pepper Lunch EX Ciputra World (Temporaryy Closed)\n*  Pepper Lunch EX Grand City\n*  Pepper Lunch SKA Mall\n*  Pepper Lunch Galaxy Mall Surabaya\n*  Pepper Lunch Lippo Plaza Medan\n*  Pepper Lunch Delipark Medan\n*  Pepper Lunch East Coast Surabaya\n*  Pepper Lunch Pondok Indah Mall 3\n*  Pepper Lunch Ayani Megamall Pontianak\n* Pepper Lunch Trans Studio Mall Bali\n*  Pepper Lunch Cinere\n*  Pepper Lunch Resto Puri\n*  Pepper Lunch The Trans Icon\n*  Pepper Lunch Senayan Park\n*  Pepper Lunch Express Lippo Cikarang\n*  Pepper Lunch Ratu Indah Makasar\n*  Pepper Lunch Olympic Garden Malang\n*  Pepper Lunch Lippo Plaza Jember\n*  Pepper Lunch The Park Mall Semarang\n*  Pepper Lunch Cibinong City Mall 2\n*  Pepper Lunch Living World Denpasar\n*  Pepper Lunch Resinda Park Mall Karawang\n*  Pepper Lunch Duta Mall Banjarmasin\n*  Pepper Lunch Lippo Plaza Ekalokasari Bogor\n*  Pepper Lunch Jambi Town Square\n*  Pepper Lunch Express Summarecon Villaggio Karawang\n*  Pepper Lunch Grand East Karawang\n*  Pepper Lunch Lampung City Mall\n*  Pepper Lunch Grand Kota Bintang (Opening 16 Feb 2024)\n*  Pepper Lunch Lombok Epicentrum Mall (Opening 27 Feb 2024)\n*  Pepper Lunch AEON Mall Tanjung Barat \n*  Pepper Lunch Queen City Semarang \n*  Pepper Lunch AEON Mall Delta Mas\n*  Pepper Lunch Living World Kota Wisata Cibubur\n*  Pepper Lunch The Pejaten Park\n*  Pepper Lunch Summarecon Mall Bandung\n* Pepper Lunch CSB Mall\n* Pepper Lunch Pakuwon Mall Bekasi \n* Pepper Lunch The Park Kendari\n* Pepper lunch Icon Mall Bali\n\n\n",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 319460,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "RJU",
+      "name": "Re.juve",
+      "count_transaction": 234,
+      "created_at": "2024-11-27 07:28:37",
+      "modified_at": "2025-01-13 12:09:34",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 68696,
+        "id_master_imageable": 107122,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-11-27T07%3A28%3A00.712Zgroup.png",
+        "ordered": null,
+        "alt_image": "merchant-re.juve-logo"
+      },
+      "background_image": {
+        "id_master_image": 68697,
+        "id_master_imageable": 107123,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-11-27T07%3A28%3A14.965Zgroup.png",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 107124,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 19,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 319460,
+        "name": "Re.juve",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-11-27T07%3A28%3A00.712Zgroup.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-re.juve",
+      "meta_title": "Re.juve",
+      "meta_description": "Re.juve adalah brand cold-pressed ternama di Indonesia, yang memadukan 100% kebaikan alam seperti buah dan sayur segar serta rempah-rempah Indonesia menjadi cold-pressed juices yang dapat dinikmati oleh Indonesia, tanpa pengawet dan tanpa tambahan gula. Re.juve telah memiliki lebih dari 120 toko di Pulau Sumatera, Jawa dan Bali. Semua juices terbuat secara higienis di sentral produksi menggunakan teknik cold-pressed dan terlindungi dengan teknologi High Pressure yang menjaga keamanan produk sehingga bisa tahan hingga 30 hari tanpa pengawet. \n\nOutlet Berlaku :\n\n-\tGandaria City\n-\tKota Kasablanka\n-\tLotte Shopping Avenue\n-\tMaxxBox \n-\tPacific Place\n-\tMall Alam Sutera\n-\tKuningan City\n-\tGrand Indonesia\n-\tRumah Sakit Puri Indah\n-\tAEON BSD \n-\tLippo Mall Puri\n-\tOne Bell Park\n-\tBotani Square\n-\tMall Kelapa Gading 3\n-\tGandaria City 2 \n-\tSequis Center \n-\tPlaza Indonesia\n-\tNeo SOHO CP\n-\tMall Artha Gading\n-\tPIM 2 \n-\tBintaro Jaya Xchange Mall\n-\tLiving World\n-\tPlaza Senayan\n-\tCentral Park\n-\tMall Puri Indah\n-\tMall Taman Anggrek\n-\tSetiabudi One Building\n-\tAEON JGC\n-\tHarmonie Exchange\n-\tDharmawangsa Square\n-\tPIK Avenue\n-\tEmporium Pluit\n-\tSummarecon Mall Serpong\n-\tFX Sudirman\n-\tSouth Quarter\n-\tGrand Metropolitan Bekasi\n-\tMetropolitan Mall Bekasi\n-\tCityWalk Sudirman\n-\tSupermal Karawaci\n-\tMall Of Indonesia\n-\tPakuwon Mall Surabaya\n-\tLippo Mall Kemang \n-\tEast Cost surabaya\n-\tBlok M Plaza\n-\tKota Kasablanka 2\n-\tTrans Studio Mall Cibubur\n-\tMall Artha Gading 2\n-\tSunter Mall\n-\tBeachwalk\n-\tSeminyak Village\n-\tSiloam Kebun Jeruk\n-\tTrans Studio Bandung\n-\tJimbaran Sidewalk Bali\n-\tRoyal Plaza Surabaya\n-\tSummarecon Mall Bekasi\n-\tCilandak Town Square\n-\tGS Supermarket Legenda Wisata \n-\tFood Hall Senayan City\n-\tRs. Pondok Indah\n-\tPondok Indah Mall 3\n-\tTentrem Mall Semarang\n-\tMargo City \n-\tMall Lippo Cikarang\n-\tPesona Square Depok\n-\tCihampelas Walk Bandung\n-\tSolo Paragon Mall\n-\tPalembang Icon\n-\tSocial Market Palembang\n-\tAeon Sentul\n-\tPollux Mall Paragon Semarang\n-\tThe Breeze BSD\n-\tRs. Mayapada Jakarta Selatan\n-\tCirebon Superblok\n-\tMal Boemi Kedaton Lampung\n-\tResinda Park Karawang\n-\tDiscovery Shopping Mall Bali\n-\tPakuwon Mall Jogya\n-\tAmmbarukmo Plaza Jogya\n-\tLiving Plaza Jababeka\n-\tEka Hospital BSD\n-\tCiputra Seraya Pekanbaru\n-\tLiving World Pekanbaru\n-\tEka Hospital Cibubur\n-\tRs. Pantai Indah Kapuk\n-\tRs. Bina Medika \n-\tRs. Mayapada Tangerang\n-\tLiving World Denpasar \n-\tThe Park Sawangan\n-\tAKR Tower\n-\tEka Hospital Bekasi\n-\tMenara Standard Chartered\n-\tRevo Mall Bekasi\n-\tRe.Fresh BXC\n-\tNational Hospital Surabaya\n-\tRs. GrandFamily PIK\n-\tRefresh Lotte\n-\tSiloam Hospital Bogor\n-\tJakarta Eye Center (JEC) Kedoya\n-\tRS. Lira Medika Karawang\n-\tCibinong City Mall\n-\tGreen Sedayu Mall\n-\tBrawijaya Hospital\n-\tSiloam Hospital Sunset Road Bali\n-\tTelkom Landmark Tower\n-\tWorld Trade Center 2 (WTC2)\n-\tThe Park Pejaten\n-\tBethsaida Hospital Serang\n-\tRS. Premier Bintaro\n-\tGajah Mada Plaza\n-\tRe.Fresh CIMB Niaga\n-\tRS. Harapan Kita\n-\tWisma GKBI\n-\tHUBLIFE Taman Anggrek\n-\tAEON Tanjung Barat\n-\tMayapada Hospital Kuningan\n-\tWisma Nugra Santana\n-\tPacific Century Place\n-\tPaskal 23 Bandung\n-    Tokyo Hub \n-    Wang Plaza\n-    SKA Mall Pekanbaru\n-    Plaza Renon Bali\n-    Menara Bidakara\n-    Sampoerna Strategic Square\n-    Eastvara BSD\n-    Pakuwon Mall Bekasi\n-    Tamora Square Canggu\n\n",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 26,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "GROUP",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "BOGA",
+      "name": "Boga Group",
+      "count_transaction": 227,
+      "created_at": "2018-03-12 03:54:20",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 49077,
+        "id_master_imageable": 91844,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T06%3A07%3A23.962Z1694153243-group.png",
+        "ordered": null,
+        "alt_image": "group-boga-group-logo"
+      },
+      "background_image": {
+        "id_master_image": 54799,
+        "id_master_imageable": 91845,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-05-03T05%3A15%3A26.231Zgroup.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 91846,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "NO",
+      "discount": 8,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 26,
+        "name": "Boga Group",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T06%3A07%3A23.962Z1694153243-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "group-boga-group",
+      "meta_title": "Boga Group",
+      "meta_description": "Voucher Digital Boga Group merupakan voucher yang dapat digunakan di 11 restoran yang bertanda Boga Group. Memudahkan anda untuk bertransaksi di Store Boga Group yang terdiri dari:  Bakerzin, Kimukatsu, Kintan Buffet, Paradise Dynasty, Pepper Lunch, Putu Made, Shaburi, Yakiniku Like, OCEAN 8 Seafood & Dimsum Bar, Loaf Bun dan Ebiga. \n\nDengan Voucher Digital Boga Group ini anda tidak perlu lagi membawa uang cash, karena semua pembayaran ada di dalam genggaman anda. Hanya perlu beberapa klik saja hingga transaksi pembayaran selesai. Cocok untuk Hangout bersama Keluarga, Teman atau Kerabat Terdekat.",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 7078,
+      "parent_account": {
+        "id": 8291,
+        "name": "Altima Group"
+      },
+      "corporate_industry": "Food & Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "KAR",
+      "name": "Karnivor By Altima Group",
+      "count_transaction": 204,
+      "created_at": "2022-10-18 11:46:27",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 49104,
+        "id_master_imageable": 89390,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T07%3A18%3A53.101Z1694157533-group.png",
+        "ordered": null,
+        "alt_image": "merchant-karnivor-by-altima-group-logo"
+      },
+      "background_image": {
+        "id_master_image": 57152,
+        "id_master_imageable": 89391,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-09-05T07%3A36%3A49.676Zgroup.png",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": 57153,
+        "id_master_imageable": 89392,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-09-05T07%3A36%3A56.554Zgroup.png",
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 10,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 7078,
+        "name": "Karnivor By Altima Group",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-08T07%3A18%3A53.101Z1694157533-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-karnivor-by-altima-group",
+      "meta_title": "Karnivor By Altima Group",
+      "meta_description": "Karnivor adalah Steakhouse Viral asal Bandung yang sudah berdiri sejak 2011. Memiliki beragam varian menu steak, Karnivor juga terkenal dengan menu spesialnya yang berukuran raksasa bernama Monster Menu.\"\n\n\n**Outlet Berlaku :**\n\n1. Karnivor jl Riau, Bandung\n\n2. Karnivor La Terazza Bekasi\n\n3. Karnivor Kota Kasablanka\n\n4. KARNIVOR Grand Indonesia\n5. KARNIVOR AEON Tanjung Barat\n6. KARNIVOR La Riviera - PIK 2 (Opening 15 Maret 2024) ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 23314,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "PHI",
+      "name": "Pizza Hut Indonesia",
+      "count_transaction": 193,
+      "created_at": "2024-02-02 05:04:23",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 52542,
+        "id_master_imageable": 108406,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2024-02-02T05%3A04%3A05.240Z1706850245-group.png",
+        "ordered": null,
+        "alt_image": "merchant-pizza-hut-indonesia-logo"
+      },
+      "background_image": {
+        "id_master_image": 52546,
+        "id_master_imageable": 108407,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2024-02-02T07%3A32%3A20.388Zgroup.png",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 108408,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 38,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 23314,
+        "name": "Pizza Hut Indonesia",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2024-02-02T05%3A04%3A05.240Z1706850245-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-pizza-hut-indonesia",
+      "meta_title": "Pizza Hut Indonesia",
+      "meta_description": "Pizza Hut Restaurant dan PHD (Pizza Hut Delivery) sudah memiliki store lebih dari 600 outlet dari Sabang sampai Merauke. Brand Pizza Hut Restoran yang berkonsep dine in dengan suasana restoran yang nyaman dan fasilitas lengkap, seperti: free Wifi, Mushola, dan parkiran luas. Dengan menu utama yang tidak hanya Pizza & Pasta, tetapi juga varian Nasi, Ayam, Kopi, Snack dan Ice Cream. Sementara Brand PHD menawarkan layanan bawa pulang dan delivery cepat dengan beragam menu value boxes. Komitmen Pizza Hut Indonesia tidak hanya terfokus pada aspek halal, melainkan juga inovasi produk, memberikan pelayanan terbaik dan terus berusaha memberikan pengalaman kuliner yang memuaskan.\n\n**Outlet Berlaku :**\n\n* PHR\n*  Menara Cakrawala \n*  Gatot Subroto Pancoran \n*  Kemang \n*  Kelapa Gading Mall 3 \n*  Summarecon Mall Serpong \n*  Juanda \n*  Kota Kasablanka Mall \n*  Supermall Pakuwon Indah \n*  Emerald Bintaro \n*  Galaxy Mall Dua \n*  Symphony Puspitek Pamulang \n*  Sumarecon Mall Bekasi \n*  Darmo \n*  Malang Semeru \n*  Padang \n*  Cilandak \n*  Petterani \n*  Taman Anggrek \n*  Duri Bengkalis \n*  Martapura Ahmad Yani \n*  Pasar Kemis \n*  Sukodono \n*  Jampang Bogor \n*  Mayor Oking \n*  Diponegoro Batu \n*  Kuningan \n*  Tomohon \n*  Pati \n*  Pringsewu Lampung \n*  Bitung Sulawesi Utara \n*  Sudirman Bojonegoro \n*  Majalengka \n*  Metro Lampung \n*  Kings Plaza Bandung \n*  Klaten \n*  Ponorogo \n*  Pinang Ranti \n*  Magelang \n*  Kudus \n*  Imam Bonjol Pekalongan \n*  Kota Baru Parahyangan \n*  MT Haryono Sampit \n*  Payakumbuh \n*  Ramayana Baturaja \n*  Prabumulih \n*  Pancing Medan \n*  Tanjung Pandan Belitung \n*  Manokwari \n*  Merdeka Lhokseumawe Aceh \n*  Muara Bungo Jambi \n*  Purbalingga \n*  Tuban \n*  Rantau Prapat \n*  Sarbini Kebumen \n*  Boyolali \n*  Berau \n*  Rawa Buntu BSD \n*  M. Kahfi Dua \n*  Kotamobagu \n*  Bima \n*  Hasanuddin Baubau \n*  Letjen Suprapto Purwodadi \n*  Lombok Epicentrum Mall \n*  Ciwalk \n*  Mandala Merauke Papua \n*  Martadinata Ciputat \n*  Waru Sidoarjo \n*  Padang Sidempuan \n*  Lahat Sumatera Selatan \n*  Seokarno Hatta Balikpapan \n*  Meulaboh Aceh \n*  Lembang Bandung \n*  Kenjeran Surabaya \n*  R. Suprapto Ketapang \n*  Manukan Tama Surabaya \n*  Rajawali Palangkaraya \n*  Bulukumba Sulawesi Selatan \n*  Adi Sucipto Jogja \n*  Lubuk Pakam \n*  Mapanget Manado \n*  AH Nasution Bandung \n*  Green Village Cipondoh \n*  Sepatan Tangerang \n*  Pal Tujuh Banjarmasin \n*  Sedayu Kelapa Gading \n*  Pasuruan Jawa Timur \n*  Bung Tomo Samarinda \n*  Pallangga Gowa \n*  Sangatta Kalimantan Timur \n*  Tanjung Balai Karimun \n*  Waena Jayapura \n*  Perintis Makassar \n*  Luwuk Sulawesi Tengah \n*  Lamnyong Banda Aceh \n*  Pamekasan Madura \n*  Pare-Pare \n*  Ciruas Serang \n*  Bondowoso \n*  Juanda Tasik \n*  Jepara \n*  Bone Sulawesi Selatan \n*  Pajajaran Bandung \n*  Pangkalan Bun \n*  Kisaran Medan \n*  Pajajaran \n*  Bumi Serpong Damai \n*  Jemursari \n*  Lippo Supermall \n*  Mangga Dua Mall \n*  Kopo \n*  Dago \n*  Puri Indah Mall \n*  Ciputra \n*  Ratu Indah Makassar \n*  Cibubur \n*  Blok M Plaza \n*  Bali Gatot Subroto \n*  Daan Mogot \n*  Buah Batu \n*  Batam \n*  Bena Kutai \n*  Kartini \n*  Central Plaza \n*  Bintaro Plaza \n*  Solo 2 \n*  Panakukang Mall \n*  Adam Malik \n*  Cempaka Putih \n*  Bekasi Mega Mall \n*  Buncit \n*  Lippo Cikarang Mall \n*  Manado Mega Mall \n*  Pluit Village \n*  Giant Ciledug \n*  Manyar Kertoarjo \n*  Thamrin Plaza \n*  Mulyosari \n*  Banjarmasin \n*  Bogor Indah Plaza \n*  Megamall Batam Center \n*  Serpong \n*  Karawang \n*  Sidoarjo \n*  Cijantung Mall \n*  Medan Fair \n*  Mercure \n*  Sukabumi \n*  Tegal \n*  Lapangan Ross Tebet \n*  Setiabudi Semarang \n*  Kalibata Plaza \n*  Pasar Atom \n*  Royal Plaza \n*  Pusat Grosir Cililitan \n*  Banda Aceh \n*  Setiabudi Medan \n*  Kemang Pratama \n*  Pondok Kelapa \n*  Ayani Megamal \n*  Modernland \n*  Buaran Plaza \n*  Artha Gading Mall \n*  Kota Wisata \n*  Jember \n*  Cirendeu \n*  Cimahi \n*  Bendungan Hilir \n*  Kupang \n*  Ciledug \n*  Duta Mall Banjarmasin \n*  Matahari Mall \n*  Manado Town Square \n*  Karebosi Link \n*  Emporium Pluit \n*  Serang \n*  Bali Galeria Mall \n*  Pagar Alam Lampung \n*  Abepura \n*  Pemuda \n*  Bukit Tinggi \n*  Pahlawan \n*  Balikpapan SuperBlok \n*  Tanjung Pinang \n*  Kediri Mall \n*  Puncak Pafesta \n*  Matraman Raya \n*  Depok Dua Tengah \n*  Tasikmalaya \n*  Kaliurang \n*  Gandaria City Mall \n*  Sanur \n*  Sudirman \n*  SKA Mall \n*  Citra Raya Cikupa \n*  Krakatau \n*  Gajah Mada Pontianak \n*  Depok Town Center \n*  Garut \n*  Taman Ratu \n*  Harapan Indah \n*  Solo Square \n*  Sam Ratulangi \n*  Riau Bandung \n*  Alaudin Makasar \n*  Sipin Jambi \n*  Jatiwaringin \n*  Palu \n*  Sunset Point Bali \n*  Ciliwung Malang \n*  Warung Jambu Tiga \n*  Taman Mini Sentral \n*  Lippo Plaza Kendari \n*  Komsen Jatiasih Bekasi \n*  Makassar Townsquare \n*  Diponegoro Bali \n*  Citra Enam \n*  Asrama Haji Medan \n*  Malang Soekarno Hatta \n*  Grand Wisata Bekasi \n*  Cibinong City Mall \n*  Semarang Pandanaran \n*  Center Point Medan \n*  Karawang Central Plaza \n*  Gajah Mada Medan \n*  Metropolitan City Panam \n*  Kemanggisan \n*  Bintaro Jaya Xchange \n*  Festival Citylink \n*  Palembang Icon Mall \n*  Senapelan Pekanbaru \n*  Palembang Trade Center \n*  Jatinangor Town Square \n*  Citraland Semarang \n*  Jimbaran Bali \n*  Majapahit Semarang \n*  Antasari Lampung \n*  S Parman Samarinda \n*  Bintaro Veteran 2 \n*  Cisalak Depok \n*  Diponegoro Salatiga \n*  Madiun \n*  Lokasari \n*  Alam Sutera Boulevard \n*  Sultan Agung Yogyakarta \n*  Mojokerto \n*  Banjarbaru \n*  S Parman Bengkulu \n*  Rijali Ambon \n*  Palangkaraya \n*  Mataram Sriwijaya \n*  Metropolitan Mall Cileungsi \n*  Big Mall Samarinda \n*  Antapani \n*  Sisingamangaraja Medan \n*  Kupang Lippo Plaza \n*  Paal Dua Manado \n*  Rita Mall Purwokerto \n*  Sudirman Pekanbaru \n*  Kota Bintang \n*  Rancho TB Simatupang \n*  Jogja City Mall \n*  Raden Inten Lampung \n*  Danau Sunter Utara \n*  Panjang Kebon Jeruk \n*  Paramount Serpong \n*  Jababeka Cikarang \n*  Hertasning Makassar \n*  MERR Surabaya \n*  Cinere Raya Dua \n*  MT Haryono Balikpapan \n*  Citimall Gorontalo \n*  City Plaza Jatinegara \n*  Cianjur \n*  Sudirman Dua Palembang \n*  Teuku Umar Denpasar \n*  The Park Solo \n*  Pemuda Cirebon \n*  Nipah Mall Makassar \n*  Jakarta Garden City \n*  Batu Aji Batam \n*  Basuki Rahmat Surabaya \n*  Gresik Icon Mall \n*  Jambi Prima Mall \n*  Ngaliyan Semarang \n*  Khatib Sulaiman Padang \n*  Ramayana Pematang Siantar \n*  Cimone Tangerang \n*  Arteri Supadio Pontianak \n*  Trans Studio Cibubur \n*  Hankam Raya Bekasi \n*  Grand Mall Batam \n*  Purwakarta \n*  Telkom Setiabudi Bandung \n*  Ring Road Medan \n*  Soekarno Hatta Bandung \n*  Lambung Mangkurat Banjarmasin \n*  Demang Lebar Palembang \n*  Cilegon Raya Banten \n*  Dumai Riau \n*  Mega Mall Sorong \n*  Golden City Bekasi \n*  Sultan Agung Semarang \n*  Tarakan Kalimantan Utara \n*  Wiyung Surabaya \n*  Enggano Tanjung Priok \n*  The Park Sawangan \n*  Citra Raya Mall \n*  Banyuwangi \n*  Cilacap Gatot Subroto \n*  Metland Tambun Bekasi \n*  Singkawang Culture Center \n*  Palopo \n*  Pangkal Pinang \n*  Pos Pengumben \n*  Margonda Raya \n*  Aeon Mall Sentul \n*  Pakuwon City Mall \n*  Lubuk Linggau \n*  Bontang Plaza \n*  Anduonohu Kendari \n*  Timika \n*  Ternate \n* Wailela Ambon\n* JAYAPURA PAPUA\n* Pizza Hut Sudirman Yogyakarta\n* Pizza Hut Metro Pondok Indah\n* Pizza Hut Benakutai Balikpapan\n* Pizza Hut Ristorante Summarecon Mall Bandung\n\n**PHD**\n*  Jurumudi Tangerang \n*  dr.Susilo Grogol \n*  Green Lake City \n*  Citayam Pondok Terong \n*  Cipayung Raya \n*  Palem Semi Karawaci \n*  Meruya Utara \n*  Terusan Bandengan \n*  Pilar Cikarang Utara \n*  Sangiang Tangerang \n*  Pondok Labu \n*  Kranggan Jatisampurna \n*  Kalisari \n*  Asem Baris Tebet \n*  Rest Area KM 754 Sidoarjo \n*  Rest Area KM 57 Cikampek \n*  Rungkut Menanggal \n*  Citeureup Bogor \n*  Parangtritis Yogyakarta \n*  Keadilan Depok Timur \n*  Setia Klambir Medan \n*  Denai Medan \n*  Bosih Cibitung \n*  Bukit Dago Pamulang \n*  Citra Indah Jonggol \n*  Pondok Ungu Bekasi \n*  Tamalanrea Makassar \n*  Kopo Katapang \n*  Teluk Naga Tangerang \n*  Kerkof Cimahi \n*  Surya Sumantri \n*  Banguntapan Bantul \n*  Sumur Batu \n*  Johor Indah Medan \n*  Katamaran PIK Satu \n*  Grand Majalaya \n*  Pekapuran Cimanggis \n*  Pulo Gebang Raya \n*  Siwalankerto \n*  Jalan Riau Pekanbaru \n*  Pondok Petir \n*  Regency Cikampek \n*  Cipanas Cianjur \n*  Sentraland Parung Panjang \n*  Pasir Nangka Tigaraksa \n*  Siaga Bojong Gede \n*  Pulo Brayan \n*  Simpang Ciseeng \n*  Kelapa Gading Boulevard \n*  Green Garden \n*  Tebet \n*  Bintaro \n*  Serpong \n*  Pondok Indah \n*  Kalimalang \n*  Citra Garden \n*  Cibubur \n*  Mangga Besar \n*  Harapan Indah \n*  Sunter \n*  Hasyim Ashari \n*  Puri Beta Ciledug \n*  Taman Duta Mas \n*  Villa Galaxy \n*  Karang Tengah Ciledug \n*  Depok \n*  Rawamangun \n*  Cikini \n*  Pasar Minggu \n*  Taman Semanan Indah \n*  Pamulang \n*  Bulungan \n*  Cipondoh \n*  Thamrin Residence \n*  Margonda Residence \n*  Jatimakmur Residence \n*  Pos Pengumben \n*  Taman Sunter Indah \n*  Sholeh Iskandar Bogor \n*  Antapani \n*  Jemur Sari \n*  Dago Atas \n*  Menganti Wiyung \n*  Taman Rasuna Kuningan \n*  Dharmahusada \n*  Karawitan \n*  Fatmawati \n*  Darmo Indah \n*  Beringin \n*  Kelapa Hibrida \n*  Central Park \n*  Taman Kopo Indah \n*  Buaran \n*  Metro Margahayu \n*  Condet \n*  Benhil \n*  Villa Mutiara Gading \n*  Caman Jatibening \n*  Kedungdoro \n*  Cijerah \n*  Mekar Wangi \n*  Taman Sari \n*  Taman Palem \n*  Bintara \n*  Emerald Bintaro \n*  Mustika Jaya \n*  Kaliabang \n*  Cipinang Jaya \n*  Kuta Bumi \n*  Ketintang \n*  Kartini Gresik \n*  Delta Sari Sidoarjo \n*  Bugis Raya Priok \n*  Ciputat \n*  Gading Serpong \n*  Jababeka Cikarang \n*  Sawojajar Malang \n*  Villa Bogor Indah \n*  Kartini Bekasi \n*  Cikaret Cibinong \n*  Utan Kayu \n*  Cimahi \n*  Dinoyo Malang \n*  Koja \n*  Jatiwarna \n*  Dewi Sartika Cawang \n*  Depok Nusantara \n*  Serua Ciater Pamulang \n*  Purwakarta \n*  Akses UI \n*  Sesetan Bali \n*  Gajah Mada Semarang \n*  Colombo Yogyakarta \n*  Ngesrep Semarang \n*  Godean Yogyakarta \n*  Sultan Agung Semarang \n*  Hayam Wuruk Bali \n*  Gatsu Barat Bali \n*  Ragunan \n*  Joni Medan \n*  Kerobokan Bali \n*  Cibubur Lapangan Tembak \n*  dr. Mansyur Medan \n*  S. Parman Medan \n*  Bona Indah  \n*  Pengasinan Bekasi \n*  Sidoarjo \n*  Marelan \n*  Krakatau \n*  Cikarang \n*  Poris \n*  Kemanggisan Dua \n*  Cempaka Putih Dua \n*  Parung Bingung \n*  Ujung Berung \n*  Gunung Bawakaraeng \n*  G-Walk Citraland \n*  Kaliurang Yogyakarta \n*  Pengayoman Makassar \n*  Citra Raya Cikupa \n*  Kakatua \n*  Binjai \n*  Cikarang Barat \n*  Sumedang \n*  Ciomas Bogor \n*  Mangun Jaya Tambun \n*  Jembatan Lima Tambora \n*  Kartini Depok Lama \n*  Daya Perintis Makassar \n*  Merpati Raya Ciputat \n*  Citra Enam \n*  Canadian Kota Wisata  \n*  Pandu Raya Bogor Baru \n*  Cinunuk Bandung \n*  Batu Bulan Bali \n*  Setiabudhi Bandung \n*  Gandul Cinere \n*  Tirtayasa Cilegon \n*  Tlogosari Semarang \n*  Mayor Syafei Serang \n*  Karadenan Cibinong \n*  Tropodo Sidoarjo \n*  Tulungagung \n*  Sultan Hasanudin Gowa \n*  Jalan Gudang Sukabumi \n*  Soekarno Hatta Probolinggo \n*  Unhas Perintis Makassar \n*  Cileungsi \n*  Pesanggrahan Dua \n*  Pamularsih Semarang \n*  Tuparev Cirebon \n*  Sukun Malang \n*  Jati Raya Banyumanik \n*  Kapas Krampung Surabaya \n*  Kilometer Lima Palembang \n*  Perumnas Ciremai Cirebon \n*  Taman Siswa Yogyakarta \n*  Jatiwaringin \n*  Graha Raya Tangerang \n*  Nusantara Raya Bekasi \n*  Sukatani Kenten Palembang \n*  Seturan Yogyakarta \n*  Bojongsoang Bandung \n*  Plaju Palembang \n*  Bypass Soekarno Tabanan \n*  Margacinta Bandung \n*  Raden Fatah Ciledug \n*  Larangan Sidoarjo \n*  Nusukan Solo \n*  Veteran Solo \n*  SM. Raja Medan \n*  Dasana Indah Tangerang \n*  Makam Haji Kartasura \n*  Simpang Simalingkar Medan \n*  Kapten Muslim Medan \n*  Wachid Hasyim Kediri \n*  Basilica Hasan Kasim  \n*  Radar Komsen Bekasi \n*  S. Parman Pekanbaru \n*  Letjend Suprapto Jember \n*  Tembung Medan \n*  Salim Batubara Palembang \n*  Bharata Telukjambe Karawang \n*  RC Veteran \n*  Padalarang \n*  Rumbai Pekanbaru \n*  Dramaga Bogor \n*  Dalung Bali \n*  Juanda Raya Cikampek \n*  Harapan Raya Pekanbaru \n*  Seskoal Ciledug Raya \n*  Diponegoro Ungaran \n*  Geluran Sidoarjo \n*  Muara Karang Raya \n*  Sudirman Ciceri Serang \n*  Padurenan Bekasi \n*  Sekarwangi Cibadak \n*  Overste Isdiman Purwokerto \n*  Banjaran Bandung \n*  Bojongsari Depok \n*  Gajahmada Tiban \n*  Ampera Raya Pademangan \n*  Wolter Monginsidi Manado \n*  Palm Spring Batam \n*  Durian Pekanbaru \n*  Pangeran Antasari Samarinda \n*  Uniba Batam \n*  Balai Kota Tikala \n*  Ahmad Yani Balikpapan \n*  Sepinggan Balikpapan \n*  M. Yamin Samarinda \n*  Otto Iskandardinata Subang \n*  Lambung Mangkurat Samarinda \n*  Timbau Tenggarong \n*  Delima Raya Pekanbaru \n*  Bengkong Ratu Batam \n*  Imam Bonjol Lampung \n*  dr. Wahidin Rembiga \n*  Bypass Ahmad Yani \n*  Wolter Monginsidi Lampung \n*  Simpang Rimbo Jambi \n*  Mayang Jambi \n*  Wahid Hasyim Jombang \n*  Kertanegara Karang Ploso \n*  Mondoroko Singosari Malang \n*  Simpang Lima Tasikmalaya \n*  Rancaekek Bandung \n*  Kamasan Banjaran \n*  Multatuli Rangkasbitung \n*  Mega Citra Ciparay \n*  Simpang Tinju Padang \n*  Leuwiliang Bogor \n*  Cisauk Lapan BSD \n*  Balaraja Kresek Sentiong \n*  Lamongrejo \n*  Cisaat Sukabumi \n*  Kosambi Karawang \n*  Taman Griya Jimbaran \n*  M. Yamin Pontianak \n*  Sudirman Maros \n*  Hasan Basri Banjarmasin \n*  Sumber Cirebon \n*  Siliwangi Pelabuhan Ratu \n*  Sudirman Pare Kediri \n*  Sutomo Marapalam Padang \n*  Sutoyo Banjarmasin \n*  Curug Tangerang \n*  Bangka Kemang \n*  Tajur Bogor \n*  Tamangapa Antang \n*  Serdam Pontianak \n*  Tanjung Raya Pontianak \n* Hulaan Gresik\n* Centra Market PIK 2\n\n**Outlet tidak berlaku:**\n\n- Bandara Soeta\n- Bandara Ngurah Rai\n    ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 6195,
+      "parent_account": {
+        "id": 6189,
+        "name": "Imperial Group"
+      },
+      "corporate_industry": "Food & Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "IKD",
+      "name": "Imperial Kitchen & Dimsum",
+      "count_transaction": 175,
+      "created_at": "2022-03-16 12:01:19",
+      "modified_at": "2025-01-30 04:11:19",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48804,
+        "id_master_imageable": 109574,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A14%3A18.104Z1693898058-group.png",
+        "ordered": null,
+        "alt_image": "merchant-imperial-kitchen-&-dimsum-logo"
+      },
+      "background_image": {
+        "id_master_image": 51632,
+        "id_master_imageable": 109575,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-12-15T08%3A43%3A56.321Zgroup.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 109576,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 6,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 6195,
+        "name": "Imperial Kitchen & Dimsum",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A14%3A18.104Z1693898058-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "-",
+      "meta_title": "Imperial Kitchen & Dimsum",
+      "meta_description": "Kamu penggemar makanan khas Chinese? Wajib banget makan di Imperial Kitchen & Dimsum. Paket ini menawarkan promo menarik berupa voucher makanan senilai IDR 200.000. Dengan promo tersebut, kamu bisa mengajak teman atau keluarga untuk menikmati berbagai menu kuliner seperti Nasi Goreng Ala Yang Chow, Mie Dengan Ayam Cha Siew BBQ, Ayam Ala Kung Pao, Tahu Dengan Jamur Shimeji, Aneka Dimsum, Aneka Sayuran, Sup, Aneka Desserts, dan Minuman. Semua menu di Imperial Kitchen & Dimsum, dibuat dengan bahan-bahan segar berkualitas dan diolah dengan sempurna. Pesan voucher makan Imperial Kitchen & Dimsum di Ultra Voucher dan nikmati bersama orang-orang tersayangmu!\n\n\n**Outlet Berlaku :**\n\n* Imperial Kitchen & Dimsum Bella Tera\n* Imperial Kitchen & Dimsum Aeon Cakung\n* Imperial Kitchen & Dimsum Kemang Village\n* Imperial Kitchen & Dimsum Mal Cipinang Indah\n* Imperial Kitchen & Dimsum Cityplaza Jatinegara\n* Imperial Kitchen & Dimsum Green Pramuka Square\n* Imperial Kitchen & Dimsum Citywalk Gajah Mada\n* Imperial Kitchen & Dimsum Mall of Indonesia\n* Imperial Kitchen & Dimsum Plaza Blok M\n* Imperial Kitchen & Dimsum Mall Ciputra\n* Imperial Kitchen & Dimsum Cibubur Junction\n* Imperial Kitchen & Dimsum Pejaten Village\n* Imperial Kitchen & Dimsum Cilandak Town Square\n* Imperial Kitchen & Dimsum Carrefour Lebak Bulus\n* Imperial Kitchen & Dimsum Citywalk Sudirman\n* Imperial Kitchen & Dimsum Kota Kasablanka\n* Imperial Kitchen & Dimsum Transmart Cempaka Putih\n* Imperial Kitchen & Dimsum One Belpark\n* Imperial Kitchen & Dimsum Transmart Cilandak\n* Imperial Kitchen & Dimsum Mall Basura\n* Imperial Kitchen & Dimsum Plaza Atrium\n* Imperial Kitchen & Dimsum Fx Sudirman\n* Imperial Kitchen & Dimsum Kalibata City Square\n* Imperial Kitchen & Dimsum Lulu Hypermart Cakung\n* Imperial Kitchen & Dimsum Sunter Mall\n* Imperial Kitchen & Dimsum Lippo Mall Puri\n* Imperial Kitchen & Dimsum Mall Taman Anggrek\n* Imperial Kitchen & Dimsum Lippo Kramat Jati\n* Imperial Kitchen & Dimsum Depok Town Square\n* Imperial Kitchen & Dimsum Living Plaza Cinere\n* Imperial Kitchen & Dimsum Mall Pesona Square\n* Imperial Kitchen & Dimsum Margo City\n* Imperial Kitchen & Dimsum D Mall Depok\n* Imperial Kitchen & Dimsum TSM Cibubur\n* Imperial Kitchen & Dimsum Resinda Park\n* Imperial Kitchen & Dimsum Karawang Central Plaza\n* Imperial Kitchen & Dimsum Transmart Graha Bintaro\n* Imperial Kitchen & Dimsum Supermal Karawaci\n* Imperial Kitchen & Dimsum Living World Alam Sutera\n* Imperial Kitchen & Dimsum Bintaro Xchange\n* Imperial Kitchen & Dimsum Aeon Mall BSD\n* Imperial Kitchen & Dimsum Summarecon Mall Serpong\n* Imperial Kitchen & Dimsum Bandara Soekarno Hatta Terminal 2F\n* Imperial Kitchen & Dimsum Living Plaza Bintaro\n* Imperial Kitchen & Dimsum Tangcity Mall\n* Imperial Kitchen & Dimsum BEZ Plaza\n* Imperial Kitchen & Dimsum Summarecon Mall Bekasi\n* Imperial Kitchen & Dimsum Mega Bekasi Hypermall\n* Imperial Kitchen & Dimsum Grand Metropolitan Mall\n* Imperial Kitchen & Dimsum Lagoon Avenue Bekasi\n* Imperial Kitchen & Dimsum Meikarta District 1\n* Imperial Kitchen & Dimsum Living Plaza Jababeka\n* Imperial Kitchen & Dimsum Cibinong City Mall\n* Imperial Kitchen & Dimsum Lippo Plaza Ekalokasari\n* Imperial Kitchen & Dimsum Mall Boxies 123\n* Imperial Kitchen & Dimsum Palembang City Center\n* Imperial Kitchen & Dimsum Plaza West Tunjungan Plaza IV\n* Imperial Kitchen & Dimsum Transmart Rungkut\n* Imperial Kitchen & Dimsum Pakuwon Mall\n* Imperial Kitchen & Dimsum Manado Town Square\n* Imperial Kitchen & Dimsum Transmart Buah Batu\n* Imperial Kitchen & Dimsum Festival Citylink Bandung\n* Imperial Kitchen & Dimsum Paskal 23\n* Imperial Kitchen & Dimsum Transmart Padang\n* Imperial Kitchen & Dimsum Living World Pekanbaru\n* Imperial Kitchen & Dimsum Transmart Tegal\n* Imperial Kitchen & Dimsum The Park Solo\n* Imperial Kitchen & Dimsum Transmart Cirebon\n* Imperial Kitchen & Dimsum Cilegon Center Mall\n* Imperial Kitchen & Dimsum Transmart Jambi\n* Imperial Kitchen & Dimsum Mall Of Serang\n* Imperial Kitchen & Dimsum Transmart Setiabudi Srondol\n* Imperial Kitchen & Dimsum Green Sedayu Mall\n* Imperial Kitchen & Dimsum Mall Ciputra Tanggerang\n* Imperial Kitchen & Dimsum The Park Sawangan\n* Imperial Kitchen & Dimsum Mall Cijantung\n* Imperial Kitchen & Dimsum Wang Plaza\n* Imperial Kitchen & Dimsum Cihampelas Walk Bandung\n* Imperial Kitchen & Dimsum AEON Mall Sentul\n* Imperial Kitchen & Dimsum AEON Mall Tanjung Barat\n* Imperial Kitchen & Dimsum Botani Square\n* Imperial Kitchen & Dimsum Gandaria City\n* IMPERIAL KITCHEN & DIM SUM, PARADISE WALK SERPONG\n* IMPERIAL KITCHEN & DIMSUM TENTREM MALL SEMARANG\n* IMPERIAL KITCHEN & DIMSUM OLD SHANGHAI SEDAYU CITY\n* IMPERIAL KITCHEN & DIMSUM TOKYO PIK 2 \n* IMPERIAL KITCHEN & DIMSUM TENTREM MALL SEMARANG\n* IMPERIAL KITCHEN & DIMSUM MAMPANG BUSINESS PARK\n* IMPERIAL KITCHEN & DIMSUM PAKUWON JOGJA\n* Imperial Kitchen & Dimsum, Mall Kelapa Gading 1\n* Imperial Kitchen & Dimsum - Grand Galaxy Park \n* Imperial Kitchen & Dimsum Signature, SCBD\n* Imperial Kitchen & Dimsum Grand Outlet, Karawang\n* Imperial Kitchen & Dimsum Villagio, Karawang\n* Imperial Kitchen & Dimsum - Senayan Park\n* Imperial Kitchen & Dimsum - Poins Mall Simatupang \n* Imperial Kitchen & Dimsum - Big Mall Samarinda\n* Imperial Kitchen & Dimsum - Pondok Gede\n* Imperial Kitchen & Dimsum - Pakuwon\n* Imperial Kitchen & Dimsum - Fanindo Sanctuary Garden Batam\n* Imperial Kitchen & Dimsum - Kota Wisata Cibubur\n* Imperial Kitchen & Dimsum - Gajah Mada Plaza\n* Imperial Kitchen & Dimsum - Baywalk Pluit\n* Imperial Kitchen & Dimsum - Summarecon Bandung\n* Imperial Kitchen plaza bintaro\n* Imperial Kitchen bandara 2F\n* Imperial Kitchen & Dimsum - Duta Mall Banjarmasin\n* Imperial Kitchen & Dimsum - Botanica Bandung\n* Imperial Kitchen & Dimsum - Ciputra Seraya Pekanbaru\n* Imperial Kitchen & Dimsum - East Cost Surabaya    \n* Imperial Kitchen & Dimsum - Metropolitan Mall Cileungsi\n* Imperial Kitchen & Dimsum - Aeon Deltamas\n* Imperial Kitchen & Dimsum - Lampung City\n* Imperial Kitchen & Dimsum - DP Mall Semarang    \n* Imperial Kitchen & Dimsum - Kota Harapan Indah\n* Imperial Kitchen & Dimsum - Thamrin Agora \n* Imperial Kitchen & Dimsum - Pakuwon Mall Bekasi\n* Imperial Kitchen & Dimsum - Ciputra Cibubur",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 8499,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "F&B",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "BKD",
+      "name": "Burger King",
+      "count_transaction": 175,
+      "created_at": "2023-04-06 07:21:35",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48685,
+        "id_master_imageable": 81942,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-04T06%3A19%3A17.974Z1693808357-group.png",
+        "ordered": null,
+        "alt_image": "merchant-burger-king-logo"
+      },
+      "background_image": {
+        "id_master_image": 49364,
+        "id_master_imageable": 81943,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-09-11T09%3A59%3A34.490Zgroup.jpeg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 81944,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "NO",
+      "discount": 22,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 8499,
+        "name": "Burger King",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-04T06%3A19%3A17.974Z1693808357-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-burger-king",
+      "meta_title": "Burger King",
+      "meta_description": "Burger King merupakan salah satu perusahaan yang bergerak di bidang makanan dan minuman  terbesar di dunia. Terkenal dengan Flame Grilled 100% Australian Beef dengan Whopper sebagai salah satu iconnya. Selain popular dengan Burgernya, Burger King juga memiliki produk Ayam yang tidak kalah lezat,  Juga tersedia pilihan Snack dan dessert.\n\n\n\n**Outlet Berlaku:**\n\n1. Burger King Skyline\n2. Burger King Cilandak Town Square\n3. Burger King SuperMall Karawaci\n4. Burger King Central Park\n5. Burger King Hayam Wuruk\n6. Burger King KM 10\n7. Burger King Discovery Mall Bali\n8. Burger King Plaza Blok M\n9. Burger King Citraland Mall\n10. Burger King Sunter Mall\n13. Burger King Duren Sawit\n14. Burger King Paris Van Java\n15. Burger King Pantai Indah Kapuk\n16. Burger King Kuta Beach Walk\n17. Burger King Sunset Point\n18. Burger King Rest Area Km 19\n19. Burger King Kota Kasablanka\n20. Burger King Setiabudi One\n21. Burger King Atrium Senen\n22. Burger King Thamrin City\n23. Burger King KM 13.5\n24. Burger King Lotte Shoping Avenue\n25. Burger King KM 14\n26. Burger King Mall Of Indonesia\n27. Burger King Tebet FSDT\n29. Burger King Pertamina Serpong\n30. Burger King Balekota\n31. Burger King Lombok Epicentrum\n32. Burger King Tunjungan Plaza 1\n33. Burger King KM 97\n34. Burger King Soetta Terminal 3 Ultimate\n35. Burger King Galuh Mas Karawang\n36. Burger King Lippo Cikarang\n37. Burger King Level 21\n38. Burger King Pondok Indah Plaza\n39. Burger King Bandung Electronic Center\n40. Burger King Supermal Pakuwon Indah\n41. Burger King Citra Raya Cikupa\n42. Burger King Cibinong City Mall\n44. Burger King Living World\n46. Burger King Cihampelas Walk\n47. Burger King Mall Kelapa Gading\n48. Burger King Pondok Bambu\n49. Burger King Puri Lippo Mall\n50. Burger King Paskal 23\n51. Burger King Mall Taman Anggrek\n52. Burger King Mall Artha Gading\n53. Burger King Tangcity Mall\n54. Burger King Plaza Surabaya\n55. Burger King Margocity\n56. Burger King Aeon Mall JGC\n57. Burger King Jemursari\n58. Burger King TP-3 Food court\n59. Burger King Graha Cijantung\n60. Burger King Buah Batu\n61. Burger King Bintaro eXchange\n62. Burger King Bandung Indah Plaza\n63. Burger King Plaza Kalibata\n64. Burger King Bendungan Hilir\n65. Burger King Pajajaran\n66. Burger King Salemba \n67. Burger King Grand Wisata\n68. Burger King Ambarukmo Plaza\n69. Burger King Jogja City Mall\n70. Burger King Kota Harapan Indah\n71. Burger King Pejaten Village\n72. Burger King Galaxy Mall\n73. Burger king Malioboro\n74. Burger King Green Pramuka\n75. Burger King Green Terrace\n76. Burger King Hartono Mall / Pakuwon Supermall Jogjakarta\n77. Burger King Lagoon Avenue\n78. Burger King Paragon Semarang\n79. Burger King Rancho\n80. Burger King Kota Bintang\n81. Burger King KM 38\n82. Burger King Icon Mall Gresik\n83. Burger King Jalan Panjang\n84. Burger King Ciledug\n85. Burger King Kota Wisata\n86. Burger King Paragon Solo\n87. Burger King Trans Studio Cibubur\n88. Burger King Merr Rungkut\n89. Burger King Sun Plaza Medan\n90. Burger King Medan Fair Plaza\n91. Burger King Summarecon Bekasi\n92. Burger King Center Point\n93. Burger King Pandanaran Semarang\n94. Burger King Solo Square\n95. Burger King Sunset Road\n96. Burger King Ijen Besar Malang\n97. Burger King Cimahi\n98. Burger King Bojongsari\n99. Burger King Teuku Umar\n100. Burger King Ring Road\n101. Burger King FX Mall\n102. Burger King DMall\n103. Burger King Kemang Village\n104. Burger King Cilegon FSDT\n105. Burger King Sidoarjo City\n106. Burger King Cirebon Super Block\n107. Burger King Roxy Square Jember\n108. Burger King Kediri Mall\n109. Burger King Transmart MX Malang\n110. Burger King Waru Shell\n111. Burger King Legian\n112. Burger King Mall Panakkukang Makassar\n113. Burger King Soekarno Hatta Bandung\n114. Burger King Mall Ratu Indah Makassar\n115. Burger King AEON Mall BSD\n116. Burger King Cideng Jakarta\n117. Burger King Pluit Village\n118. Burger King Transpark Juanda\n119. Burger King Meutia Kirana\n120. Burger King Kuningan City\n121. Burger King Palembang Icon\n122. Burger King Wiyung\n123. Burger King Pettarani Makassar\n124. Burger King Hertasning\n125. Burger King Tuparev\n126. Burger King Majapahit\n127. Burger King Setiabudi Srondol\n128. Burger King Gajah Mada Medan\n129. Burger King Bintaro Sec 9\n130. Burger King Jababeka\n131. Burger King Panam\n132. Burger King Jatiasih\n133. Burger King Sesetan\n134. Burger King West Gatsu\n135. Burger King Cipondoh\n136. Burger King Living World Pekanbaru\n137. Burger King Delipark\n138. Burger King Daya\n139. Burger King Zainal Abidin\n140. Burger King BSD Maxley ( Ararasa )\n141. Burger King Aeon Sentul City (new-mall)\n142. Burger King Tambun Bekasi\n143. Burger King Basuki Rahmat\n144. Burger King Cileungsi Metland\n145. Burger King Gading Terrace\n146. Burger King Solo Baru\n147. Burger King West Sentul\n148. Burger King Araya\n149. Burger King Antasari\n150. Burger King Soekamto\n151. Burger King Ngaliyan\n152. Burger King Harmoni\n153. Burger King Boxies123 (new mall)\n154. Burger King Kalideres\n155. Burger King Karang Tengah\n156. Burger King The Park Sawangan\n157. Burger King Alaya \n158. Burger King Serang\n159. Burger King Raden Intan\n160. Burger King Cilandak KKO\n161. Burger King Puri Botanical\n162. Burger King Diponegoro\n163. Burger King MT Haryono\n164. Burger King Purwakarta\n165. Burger King Hasanuddin\n166. Burger King Gatot Subroto Tangerang\n167. Burger King Batam Center\n168. Burger King Bintaro Emerald\n169. Burger King Green Sedayu (new-mall)\n170. Burger King Sawangan Parung\n171. Burger King Sudirman Pekanbaru\n172. Burger King Pamulang\n173. Burger King Cinere\n174. Burger King Megamas Manado\n175. Burger King Yamin Samarinda\n176. Burger King Artos Mall\n177. Burger King kelapa gading\n178. Burger King Sudirman Palembang ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 7266,
+      "parent_account": {
+        "id": null,
+        "name": null
+      },
+      "corporate_industry": "Food & Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "WST",
+      "name": "Wingstop",
+      "count_transaction": 157,
+      "created_at": "2022-10-31 10:09:16",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48813,
+        "id_master_imageable": 107884,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A30%3A38.467Z1693899038-group.png",
+        "ordered": null,
+        "alt_image": "merchant-wingstop-logo"
+      },
+      "background_image": {
+        "id_master_image": 46973,
+        "id_master_imageable": 107885,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/mdm/assets/images/2023-07-27T08%3A14%3A34.375Zgroup.png",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 107886,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "NO",
+      "discount": 11,
+      "is_have_shadow": false,
+      "merchant_icon": {
+        "id": 7266,
+        "name": "Wingstop",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A30%3A38.467Z1693899038-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-wingstop",
+      "meta_title": "Wingstop",
+      "meta_description": "The Wing Experts menawarkan bermacam-macam varian chicken wings dengan memilih berbagai pilihan Flavor yang unik dan tersaji bersama berbagai pilihan dip (saus celupan). Kekuatan Wingstop lainnya adalah pada sajiannya yang dihidangkan secara freshly made to order, artinya hidangan baru akan disiapkan ketika selesai dipesan. Dengan demikian, pelanggan dapat menikmati kelezatan ayam terbaik langsung setelah dimasak.\n\nWingstop telah memiliki gerai di Jadebotabek, Bandung, Surabaya dan Pekanbaru\n\n\n**Outlet Berlaku:**\n* Wingstop\tAEON\tBSD\t\t\n* Wingstop\tAEON\tJGC\tCAKUNG\t\n* Wingstop\tAEON\tTANJUNG\tBARAT\t\n* Wingstop\tAHMAD\tDAHLAN\t\t\n* Wingstop\tBASSURA\t\t\t\n* Wingstop\tBINTARO\tEXCHANGE\t\t\n* Wingstop\tBINTARO\tFUNTASTICO\t\t\n* Wingstop\tBUAH\tBATU\t\t\n* Wingstop\tBUARAN\t\t\t\n* Wingstop\tCIBINONG\tCITY\tMALL\t\n* Wingstop\tCILANDAK\tTOWN\tSQUARE\t\n* Wingstop\tCILEDUG\t\t\t\n* Wingstop\tCILEGON\t\t\t\n* Wingstop\tCIPUTRA\tMALL\tJKT\t\n* Wingstop\tCITYWALK\t\t\t\n* Wingstop\tDARMO\t\t\t\n* Wingstop\tEVERPLATE\tKRAMAT\t\t\n* Wingstop\tEVERPLATE\tMERUYA\t\t\n* Wingstop\tFX\tSUDIRMAN\t\t\n* Wingstop\tGANDARIA\t\t\t\n* Wingstop\tGRAND\tINDONESIA\t\t\n* Wingstop\tGREEN\tPRAMUKA\tSQUARE\t\n* Wingstop\tINTILAND\tSURABAYA\t\t\n* Wingstop\tJATIASIH\t\t\t\n* Wingstop\tJEMURSARI\t\t\t\n* Wingstop\tKALIBATA\t\t\t\n* Wingstop\tKEMANG\t\t\t\n* Wingstop\tKERTAJAYA\t\t\t\n* Wingstop\tKOTA\tKASABLANKA\t\t\n* Wingstop\tKUNINGAN\tCITY\t\t\n* Wingstop\tLIPPO\tMALL\tPURI\t\n* Wingstop\tLOTTE\tAVENUE\tKUNINGAN\t\n* Wingstop\tMALL\tKELAPA\tGADING\t\n* Wingstop\tMALL\tOF\tINDONESIA\tJKT\n* Wingstop\tMARGO\tCITY\tDEPOK\t\n* Wingstop\tNEO\tSOHO\t\t\n* Wingstop\tPAJAJARAN\tBOGOR\t\t\n* Wingstop\tPAMULANG\t\t\t\n* Wingstop\tPANTAI\tINDAH\tKAPUK\t\n* Wingstop\tPEKANBARU\t\t\t\n* Wingstop\tRIAU\t\t\t\n* Wingstop\tRUBINA\t\t\t\n* Wingstop\tSAWANGAN\t\t\t\n* Wingstop\tSETIA\tBUDI\t1\t\n* Wingstop\tSouth\tQuarter\t\t\n* Wingstop\tSUMMARECON\tBEKASI\t\t\n* Wingstop\tTANGCITY\t\t\t\n* Wingstop\tTERASKOTA\t\t\t\n* Wingstop\tTRANSMART\tCIBUBUR\t\t\n* Wingstop\tTUNJUNGAN\tPLAZA]\t\t\n* Wingstop\tVETERAN\tBINTARO\t\t\n* Wingstop\tJatiwaringin\t\t\t\n* Wingstop\tAEON\tMall\tSentul\t\n* Wingstop\tCihampelas\t\t\t\n* Wingstop\tSenayan\tCity\t\t\n* Wingstop\tBotani\tSquare\t\t\n* Wingstop\tStasiun\tSenen\t\t\n* Wingstop\tStasiun\tGambir\t\t\n* Wingstop\tMetropolitan\tMall\tBekasi\t\n* Wingstop\tITC\tBSD\t\t\n* Wingstop\tLIVING\tWORLD\t\t\n* Wingstop\tSTASIUN\tTAWANG\tSEMARANG\t\n* Wingstop\tPOLLUX\tMALL\tPARAGON\tSEMARANG\n* Wingstop\tBXSea\tBintaro\t\t\n* Wingstop\tDTC\tDepok\t\t\n* Wingstop\tPlaza\tBlok\tM\t\n* Wingstop\tSummarecon\tMall\tBandung\t\n* Wingstop\tSummarecon\tMall\tSerpong\t\n* Wingstop\tLiving\tWorld\tKota\tWisata\n* Wingstop\tAeon\tMall\tCikarang\t\n* Wingstop\tPasar\tTuri\tSurabaya\t\n* Wingstop\tCirebon\tSuper\tBlok\t\n* Wingstop\tLippo\tMall\tCikarang\t\n* Wingstop\tArtha\tGading\t\t\n* Wingstop\tVilagio\n* Wingstop\tLiwo Pekan Baru\n* Wingstop\tGalaxy Mall Surabaya\n* Wingstop\tMall Olympic Garden Malang\n* Wingstop\t Stasiun Malang\n* Wingstop\tSun Plaza Medan\n* Wingstop Paragon Solo\n* Wingstop PLaza Surabaya\n* Wingstop Jatinangor Town Square\n* Wingstop Pakuwon Mall Bekasi\n* Wingstop Mall Of Serang\n* Wingstop sun city\n* Wingstop Pakuwon solo\n* Wingstop Medan Fair\n* Wingstop City Mall Jogja\n* Wingstop Plaza Malioboro Jogja\n* Wingstop Emporium Pluit\n ",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    },
+    {
+      "id": 2643,
+      "parent_account": {
+        "id": 3060,
+        "name": "Kawan Lama Group"
+      },
+      "corporate_industry": "Food and Beverage",
+      "merchant_type": "MERCHANT",
+      "is_favorite": false,
+      "price_list": null,
+      "corporate_service": "VOUCHER",
+      "code": "CHT",
+      "name": "Chatime",
+      "count_transaction": 154,
+      "created_at": "2020-03-17 03:35:24",
+      "modified_at": "2025-01-28 09:48:49",
+      "account_category": {
+        "id": null,
+        "code": null,
+        "name": null
+      },
+      "image": {
+        "id_master_image": 48815,
+        "id_master_imageable": 89601,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A32%3A52.260Z1693899172-group.png",
+        "ordered": null,
+        "alt_image": "merchant-chatime-logo"
+      },
+      "background_image": {
+        "id_master_image": 42883,
+        "id_master_imageable": 89602,
+        "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/Chatime.jpg",
+        "ordered": 1
+      },
+      "slider_images": [
+        {
+          "id_master_image": null,
+          "id_master_imageable": null,
+          "url": null,
+          "ordered": null
+        }
+      ],
+      "background_logo_image": {
+        "id_master_image": null,
+        "id_master_imageable": null,
+        "url": null,
+        "ordered": null
+      },
+      "redeem_background_image": {
+        "id_master_image": null,
+        "id_master_imageable": 89603,
+        "url": null,
+        "ordered": 1
+      },
+      "accept_uv_payment": "YES",
+      "discount": 4,
+      "is_have_shadow": true,
+      "merchant_icon": {
+        "id": 2643,
+        "name": "Chatime",
+        "image": {
+          "url": "https://uvproduction.oss-ap-southeast-5.aliyuncs.com/nero/assets/images/2023-09-05T07%3A32%3A52.260Z1693899172-group.png"
+        }
+      },
+      "nearest_outlet": null,
+      "is_enabled": true,
+      "is_diamond_perks": false,
+      "slug_url": "merchant-chatime",
+      "meta_title": "Chatime",
+      "meta_description": "Chatime adalah merek teh segar global yang populer. Nama Chatime berasal dari kombinasi kata Cina \"Cha\", yang berarti \"teh\", dan kata bahasa Inggris \"waktu\", yang mengacu pada momen santai minum teh yang ditunggu-tunggu baik oleh kaum muda maupun orang dewasa.\n\n**Outlet Berlaku :**\nBerlaku di seluruh Outlet Permanent Chatime (tidak berlaku di Foodhall Plaza Senayan, Foodtruck dan Bazar/Event)\n\n**Outlet tidak berlaku:**\n- Foodhal Plaza Senayan \n- Booth sementara atau di pameran",
+      "canonical": "https://ultravoucher.co.id/category/brand/"
+    }
+]
